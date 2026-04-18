@@ -1,56 +1,58 @@
 import java.io.File;
-import java.util.Arrays;
-import java.util.Map;
+import java.util.*;
 
 public class Main {
     static void main() {
-        File testDir = new File("data/test");
         File trainDir = new File("data/train");
 
         // reading files from directories
-        Map<String,File> testFiles = TextProcesor.getFiles(testDir);
-        Map<String,File> trainFiles = TextProcesor.getFiles(trainDir);
+        Map<File, String> trainFiles = TextProcesor.getFiles(trainDir);
 
-        //transforming data to strings
-        Map<String,String> testSet = TextProcesor.transformFilesToStrings(testFiles);
-        Map<String, String> trainSet = TextProcesor.transformFilesToStrings(trainFiles);
+        List<String> languages = new ArrayList<>(new HashSet<>(trainFiles.values()));
+        int numLanguages = languages.size();
+        System.out.println("Wykryte języki: " + languages);
 
         //getting vector of letter distribution
-        float[][] lettersDistInLang = new float[trainFiles.size()][26];
-        for (int i = 0; i < lettersDistInLang.length; i++) {
-            lettersDistInLang[i] =TextProcesor.extractFeatures(trainSet.get(trainSet.keySet().toArray()[i]));
+        float[][] trainInputs = new float[trainFiles.size()][26];
+        int[][] trainLabels = new int[trainFiles.size()][numLanguages];
+
+        int index = 0;
+        for (Map.Entry<File,String> entry : trainFiles.entrySet()) {
+            String content = TextProcesor.readFileToString(entry.getKey());
+            trainInputs[index] = TextProcesor.extractFeatures(content);
+
+            int langIndex = languages.indexOf(entry.getValue());
+            trainLabels[index][langIndex] = 1;
+
+            index++;
         }
 
-        // encoding lang labels
-        int[][] langLanbEncoded =  new int[trainFiles.size()][trainFiles.size()];
-        for (int i = 0; i < langLanbEncoded.length; i++) {
-            for (int j = 0; j < langLanbEncoded[i].length; j++) {
-                if (i==j){
-                    langLanbEncoded[i][j]=1;
-                }else {
-                    langLanbEncoded[i][j]=0;
+
+        Layer layer = new Layer(numLanguages,0.1f,0.1f,26);
+
+        for (int i=0 ; i<50000; i++){
+            layer.train(trainInputs,trainLabels);
+        }
+
+        Scanner scanner = new Scanner(System.in);
+        while(true){
+            System.out.print("Wpisz zdanie: ");
+            String input = scanner.nextLine();
+            if (input.equals("exit")){
+                break;
+            }
+            float[] features = TextProcesor.extractFeatures(input);
+            int[] classification = layer.classify(features);
+
+            for (int i = 0; i < classification.length; i++) {
+                if (classification[i] == 1) {
+                    System.out.println("Rozpoznany język: " + languages.get(i));
                 }
             }
+
         }
-
-        //prints encoded labels for cli interface
-        for(int i=0;i<langLanbEncoded.length;i++){
-            System.out.println(i+"\t"+ trainSet.keySet().toArray()[i] +"\t"+ Arrays.toString(langLanbEncoded[i]));
-        }
-
-        Layer layer = new Layer(trainSet.size(),0.1f,0.1f,26);
-
-        for (int i=0 ; i<1000; i++){
-            layer.train(lettersDistInLang,langLanbEncoded);
-        }
-
-        float[] netValues = layer.getNetValues(TextProcesor.extractFeatures(trainSet.get(trainSet.keySet().toArray()[2])));
-        int[] classify = layer.classify(TextProcesor.extractFeatures(trainSet.get(trainSet.keySet().toArray()[2])));
-
-        System.out.println("Net Values:" + Arrays.toString(netValues));
-        System.out.println("Classify Values:" + Arrays.toString(classify));
-
-
+        scanner.close();
     }
+
 
 }

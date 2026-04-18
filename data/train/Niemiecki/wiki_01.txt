@@ -1,0 +1,550 @@
+Spinnenseide ist ein Naturprodukt der Spinnen, das aus in den Spinndrüsen produzierten Proteinen besteht und außerhalb des Körpers zu Fasern gesponnen wird. Sie kann mittlerweile auch synthetisch hergestellt werden. Die Chemie und Struktur der Spinnenseiden variiert je nach Spinnenart, dem Alter der Spinne, dem Proteinvorrat und der Funktion. Webspinnen produzieren verschiedene Arten von Spinnenseiden mit einem System aus mehreren Spinndrüsen, wobei jede Seidenart für eine bestimmte Aufgabe besonders geeignet ist.
+
+Spinnen nutzen Spinnenseide zum Bau von Spinnennetzen, zur Herstellung von Abseilfäden, zum Spinnenflug, zur Abgabe von Botenstoffen, zur Übertragung taktiler Informationen, als Spermiennetz und zu weiteren Zwecken. Ein Netz kann aus bis zu fünf verschiedenen Seidenarten bestehen, während andere Seidenarten zum Einwickeln von Beutetieren und als Kokon zum Schutz für den Nachwuchs verwendet werden.
+
+Jede Spinnenseidenart setzt sich aus verschiedenen Seidenproteinen zusammen, den Fibroinen, deren Strukturen die Eigenschaften der Seide maßgeblich beeinflussen. Sie ergeben sich aus der Abfolge ihrer Aminosäurebausteine, der so genannten Primärstruktur, die häufig aus einfachen, sich wiederholenden Einheiten besteht. Darüber hinaus spielen die Proteinfaltung und die räumliche Anordnung der Aminosäureketten, die Sekundär- und Tertiärstruktur, eine wichtige Rolle für die Eigenschaften der Seide. Seidenproteine mit einer Faltblattstruktur weisen eine hohe Stabilität und geringe Flexibilität auf, während Seidenproteine mit vorwiegend spiralförmigen Helixstrukturen eine höhere Elastizität besitzen.
+
+Spinnen produzieren Spinnenseiden nach Bedarf. Dazu nutzen sie eine hochkonzentrierte Lösung von flüssigkristallinen Seidenproteinen, die als Spidroinsekrete bezeichnet werden. Die Faserbildung erfolgt außerhalb des Spinnenabdomens beim Herausziehen. Dabei spielen Scherkräfte sowie die Veränderungen des pH-Werts und des Salzgehalts im Spinnkanal eine entscheidende Rolle.
+
+Die chemischen, mechanischen und biologischen Merkmale der Spinnenseide werden seit Anfang des 20. Jahrhunderts erforscht. Einige Spinnenseidenarten gehören zu den zähesten bekannten Biomaterialien und weisen eine höhere Zugfestigkeit, Bruchdehnung und Zähigkeit auf als ein vergleichbarer Strang aus Kevlar oder Stahl. Die Elastizität einiger Spinnenseidenarten sorgt dafür, dass ein Spinnennetz beim Aufprall eines Insekts nicht zerreißt, sondern die kinetische Energie absorbiert. Darüber hinaus sind die Fäden biokompatibel, biologisch abbaubar und antibakteriell.
+
+Spinnenseide ist aufgrund ihrer Eigenschaften ein vielversprechendes Material für die Materialforschung. Die potentiellen Anwendungsmöglichkeiten sind vielfältig und umfassen unter anderem die Herstellung von Textilien, Schutzwesten, Wundabdeckmaterial, biologisch abbaubaren Verpackungen, Kosmetika, biokompatiblem medizinischen Nahtmaterial, Fallschirmen, Airbags und vielen anderen Produkten. Der Einsatz von Spinnen als direkte Seidenproduzenten ist zwar möglich, jedoch aufwändig und unwirtschaftlich. Daher werden biochemische und biotechnologische Verfahren zur künstlichen Herstellung von Spinnenseide erforscht.
+
+Geschichte
+Nutzungsgeschichte
+Spinnenseide wurde schon im antiken Griechenland zur Blutstillung und zur Therapie von Hautverletzungen verwendet.[1] Plinius der Ältere verwendete Spinnennetze bei offenen Wunden und blutigem Ausfluss, Marcellus Empiricus verwendete sie gegen Impetigo contagiosa, eine bakterielle Hauterkrankung.[2]
+
+Zur Behandlung von Warzen wurde in römischer Zeit ein Spinnennetz um die Warze gewickelt und angezündet. Der griechische Arzt Galenos behandelte Karies mit Spinnenseidenkokons, die er in die Kavität des kariösen Zahns legte. Weiterhin wurden Dermatophytose und Lepra mit Spinnenseide behandelt. Im 14. Jahrhundert wurden französische Truppen mit Paketen aus Spinnweben ausgerüstet, um Blutungen bei Verwundungen zu stillen. Eine Mischung aus Arsen, Vogelknöterich und Zinnober, vermischt mit Speichel, wurde im 18. Jahrhundert in Frankreich zur Behandlung von Hautkrebs verwendet. Die Mischung wurde auf die Haut aufgetragen und mit einem Spinnennetz bedeckt, um sie an ihrem Platz zu halten.[2] Die meisten dieser therapeutischen Anwendungen stehen nicht im Einklang mit den Erkenntnissen der modernen Medizin.
+
+Aborigines benutzten Spinnenseide zum Angeln. Dazu rieben sie Teile des Spinnenkörpers auf die Seide, um kleine Fische anzulocken, die sich in der klebrigen Seide verfingen.[1] Auf den Salomon-Inseln ist die Drachen- oder Kitefischerei auf Hornhechte mit Spinnenseide bis in die Gegenwart verbreitet. Hornhechte haben ein schnabelartig verlängertes Maul mit zahlreichen nadelartigen Zähnen und können nicht mit Angelhaken gefangen werden. Beim Drachenfischen auf Hornhecht wird an einem kleinen Drachen aus Palmblättern eine Angelschnur mit einem Köder aus aufgerolltem, klebrigem Spinnennetz befestigt. Der Köder taucht hüpfend in die Wasseroberfläche ein und imitiert so ein Insekt. Wenn der Hornhecht anbeißt, bleibt er an der klebrigen Masse hängen. Dadurch wird der Drachen nach unten gezogen und signalisiert dem Angler, dass der Fisch angebissen hat und eingeholt werden kann.[3]
+
+Optische Geräte
+
+Gascoignes Mikrometer
+Bei Arbeiten an einem Kepler-Fernrohr entdeckte der englische Astronom William Gascoigne 1639 zufällig ein Spinnennetz, das sich an dem gemeinsamen optischen Brennpunkt der beiden Linsen befand. Diese Position der Seidenfäden ermöglichte es, gleichzeitig sowohl die Spinnenseide als auch die Himmelskörper in scharfer Abbildung zu erkennen. Gascoigne erkannte, dass er das Fernrohr genauer ausrichten konnte, wenn er einen so platzierten Faden als Orientierungshilfe benutzte.[4] Seine Entdeckung mündete unter anderem in die Erfindung des Zielfernrohrs, bei dem gekreuzte Drähte im Brennpunkt das Zentrum des Sichtfelds definieren. Auch wurde das Fernrohr dadurch zu einem Mikrometer, als er zwei Fäden mit durch Schrauben verstellbarem Abstand dazu nutzte, Planetendurchmesser zu bestimmen.[5]
+
+Im 18. Jahrhundert wurden Silberfäden von achromatischen Fernrohren, die nicht die gewünschte Dicke aufwiesen, oft durch Spinnenseide ersetzt, die in verschiedenen Stärken erhältlich war.[6] Keuffel and Esser Co., ein US-amerikanisches Unternehmen für Zeichengeräte und Zubehör, beschäftigte von 1889 bis zum Zweiten Weltkrieg die „Spider Lady“ Mary Pfeiffer, die für das Unternehmen eine Spinnenfarm betrieb. Sie gewann dort Seidenfäden, aus denen Fadenkreuze für optische Geräte wie Mikroskope und Teleskope oder für Geschütze in Flugzeugen und U-Boote hergestellt wurden.[4]
+
+In den 1940er Jahren befand sich in der Stadt Yucaipa, Kalifornien, die größte Spinnenfarm der USA. Die Besitzerin Nan Songer hielt dort etwa 10.000 Spinnen, vor allem der Arten Südliche Schwarze Witwe, Argiope trifasciata und Araneus gemmoides, aus denen sie Seide für militärische Zwecke gewann, unter anderem für die Fadenkreuze der Bombenzielgeräte. Songer benutzte eine weiche Kamelhaarbürste, um die Spinnwarzen zu stimulieren, bis sich ein Abseilfaden bildete. Jeder Spinne konnte bis zu 25-mal ein Faden entnommen werden, wobei ein mehrtägiges Aushungern der Spinne zu einem Faden mit weniger Verunreinigungen führte. Die Spinnen gewöhnten sich an diesen Vorgang und wurden „so gefügig wie alte Milchkühe, insbesondere die Schwarzen Witwen.“ (Nan Songer: [7]).
+
+Darüber hinaus erstellte sie in Zusammenarbeit mit dem National Bureau of Standards eine standardisierte Liste von Spinnenseiden von „extrafein“ mit 0,5 Mikrometern bis „extrastark“ mit 5 Mikrometern Durchmesser. Für Instrumente, die besonders feine Spinnenseide benötigten, lieferte sie Babyspinnenseide mit einem Durchmesser von nur 0,05 Mikrometern, die fast unsichtbar war.[7] Noch Ende des 20. Jahrhunderts hielten einige Militäreinrichtungen eine Schwarze Witwe als Seidenlieferant für die Reparatur von Fadenkreuzen in alten optischen Instrumenten.[8]
+
+Textile Nutzung
+
+François Xavier Bon de Saint-Hilaire (um 1713). Gemälde von Jean Ranc
+In vorkolonialer Zeit wurde für die Merina-Könige die Seidenlamba, ein traditionelles Kleidungsstück Madagaskars, aus Spinnenseide gewebt.[9] Dazu wurde die orange-goldene Seide der Nephila madagascariensis verwendet, einer großen Spinne, die in den Wäldern von Madagaskar auf Bäumen lebt.[10] Eine weibliche Spinne produziert im Laufe eines Monats etwa 3650 Meter Spinnenseide und stirbt dann.[11]
+
+Die erste schriftliche Erwähnung des Sammelns von Spinnenseide stammt aus dem Jahr 1621. Der italienische Arzt und Philosoph Epifanio Ferdinando berichtet in seinem Werk Centum Historiae, dass es Girolamo Marciano gelungen sei, 450 Gramm Spinnenseide von der Tarantel zu sammeln, die diese für den Bau von Kokons zum Schutz ihrer Nachkommen verwendet.[12]
+
+Weitere Versuche zur Gewinnung von Spinnenseide für die Herstellung von Stoffen gehen auf den Franzosen François-Xavier Bon de Saint-Hilaire zurück, zur damaligen Zeit Präsident des Rechnungshofs von Montpellier. Er entwickelte 1709 ein Verfahren zur Gewinnung von Spinnenseide aus Kokons von einheimischen Spinnen. Die Kokons wurden zunächst gekocht, gewaschen und getrocknet. Aus den Kokons erhielt er durch Auskämmen Spinnenseide, die er verspinnen und zu Kleidungsstücken verweben konnte.[13]
+
+Am 5. Dezember 1709 präsentierte Bon seine Ergebnisse in einem Aufsatz mit dem Titel Sur l’utilité de la soye des araignées (Über die Nützlichkeit der Spinnenseide) in Montpellier, wo er sowohl Strümpfe als auch Handschuhe aus Spinnenseide präsentierte. Sein Aufsatz wurde zudem in der Académie Royale in Paris vorgelesen.[14] René-Antoine Ferchault de Réaumur wurde beauftragt, Bons Entdeckung auf die Möglichkeit hin zu untersuchen, daraus eine gewinnbringende Industrie aufzubauen. Réaumur kam jedoch zu dem Schluss, dass die Kosten für die Haltung der Spinnen und die Gewinnung der Seide in keinem Verhältnis zu ihrem Wert stünden. Nach den Berechnungen von Réaumur, der die unterschiedliche Ausbeute großer und kleiner Spinnen berücksichtigte, wären 663.552 Spinnen nötig, um ein Pfund Spinnenseide zu gewinnen. Möglicherweise gäbe es jedoch in Übersee größere Spinnen, die mehr Seide liefern könnten.[12]
+
+
+Apparatur zur Entnahme von Spinnenseide.[15]
+(a) Korkstückchen mit einem kleinen Hohlraum;
+(b) Blech aus verzinntem Eisen mit Aussparung;
+(c) zwei Eisenstifte oder -drähte;
+(d) Spinnwarze;
+(e) Spule zum Aufwickeln der Spinnenseide
+Der spanische Jesuitenpater Raimondo Maria de Termeyer setzte die Versuche zur Herstellung von Spinnenseide fort. Ohne die Arbeiten von Bon oder Réaumur zu kennen, begann er 1760 mit dem Sammeln von Spinnenkokons zur Seidengewinnung. Er konstruierte Kästen mit 68 Zellen, in denen er Spinnen halten konnte, und sammelte eine beträchtliche Menge an Kokons. 1762 erhielt er den Auftrag, sich der Jesuitenmission in Südamerika anzuschließen, wo er 1763 in der Intendencia de Córdoba del Tucumán, einem Teilstaat der Vereinigten Provinzen des Río de la Plata, eintraf. Während dieser Zeit lernte er die Arbeiten von Bon und Réaumur kennen. Wie Réaumur vorausgesagt hatte, gab es dort große Spinnen, die für die Gewinnung von Spinnenseide besser geeignet waren als die europäischen Spinnen.[12]
+
+Als er nach Europa zurückkehren musste, setzte er dort seine Forschungen fort. Um die Qualität der Spinnenseide zu verbessern, beschloss Termeyer 1796, die Seide nicht mehr aus dem Kokon, sondern direkt aus der Spinne zu gewinnen. Dazu konstruierte er ein kleines Gestell aus Kork und Metall, mit dessen Hilfe er die Kopfregion vom Abdomen separieren konnte, während eine Spulmaschine die Seide direkt aus den Spinndüsen der Spinne zog.
+
+„Ich habe auch eine Methode gefunden, mit der ich die Seide leicht entnehmen oder von der Spinndrüse abziehen kann. Ich präsentiere ihm eine Fliege, er nimmt sie schnell mit den Palpi und dreht sie um, als ob er sie umhüllen würde. Ich hebe den Hinterleib, und bei der ersten Berührung öffnet er die Spinndrüse und lässt eine Fülle von Seide austreten. Dann befestige ich das Ende der Seide an einer kleinen Spule von viereinhalb Zoll Durchmesser mit zylindrischen Glasarmen, die ich langsam drehe und die Seide der Spinne wie die des Kokons aufwickle.“
+
+– Raimondo Maria de Termeyer[15]
+Termeyer versuchte, diese Methode auf ein Mehrfachspinnsystem zu übertragen, bei dem mehrere Spinnen befestigt und die Seide von ihnen gleichzeitig abgewickelt werden konnte. Diese Idee wurde erst Ende des 19. Jahrhunderts in Madagaskar aufgegriffen.[12]
+
+
+Von Wilder patentierte Vor­richtung zur gleich­zeitigen Gewinnung von Spinnen­seide aus fünf Spinnen[16]
+Um ebenfalls Spinnenseide direkt aus der Spinne zu gewinnen, entwickelte der Erfinder Daniel Rolt nach eigenen Angaben ein Gerät, mit dem er in zwei Stunden über 5000 Meter Seide von zwei Dutzend Spinnen aufspulen konnte. Er wurde dafür 1830 von der Royal Society of Arts mit einer Silbermedaille ausgezeichnet.[13] Weitere Versuche zur Gewinnung von Spinnenseide unternahm 1863 der auf Folly Island in South Carolina stationierte Chirurg Burt Green Wilder. Bei einem Spaziergang entdeckte er eine große Seidenspinne, die in einem goldfarbenen Netz saß. Wilder fing die Spinne und brachte sie in sein Zelt. Als die Spinne von seinem Ärmel fiel, ergriff er ihren Abseilfaden und wickelte mit einem Federkiel innerhalb von eineinhalb Stunden 137 Meter Spinnenseide auf. Zu diesem Zeitpunkt glaubte Wilder, der Erste zu sein, dem dies gelungen war.[12]
+
+Da die Spinnenseide zum Weben zu dünn war, entwickelte er eine Vorrichtung, mit der er von mehreren Spinnen gleichzeitig Seide gewinnen und zu einem dickeren Strang zusammendrehen konnte. Allerdings waren viele Spinnen in dieser Vorrichtung zusammengedrängt und neigten dazu, sich gegenseitig zu fressen.[16] Anhand der gewonnenen Seidenmenge berechnete er, dass er etwa 5000 Spinnen bräuchte, um genügend Material für ein Kleid zu gewinnen.[13] Später entdeckte Wilder Termeyers Schriften, die er übersetzte und 1866 unter dem Titel Researches and Experiments upon Silk from Spider and upon their Reproduction (Untersuchungen und Experimente über Seide von Spinnen und deren Fortpflanzung) veröffentlichte.[17] Ferner veröffentlichte er eine Reihe von Artikeln über seine Erfahrungen in verschiedenen wissenschaftlichen Zeitschriften.[12]
+
+Der französische Jesuitenpater und Spinnenforscher Paul Camboué versuchte Ende des 19. Jahrhunderts erfolglos, eine Spinnenseidenindustrie in Madagaskar aufzubauen. Nephila madagascariensis lieferte bei einer Entnahme zwischen 150 und 600 Meter Seidenfaden, die innerhalb eines Monats fünf- bis sechsmal entnommen werden konnte. Die Gewinnung des Materials war jedoch teuer und konnte nicht mit gewöhnlicher Seide konkurrieren.[18]
+
+
+Umhang aus Spinnen­seide, her­gestellt von Simon Peer und Nicholas Godley (2012)
+Nachdem Madagaskar 1895 von Frankreich erobert wurde, gründete die Kolonialregierung die École Professionnelle in Antananarivo, die von Antoine Jully geleitet wurde. Dort züchtete er in einer Versuchsanlage Seidenspinnen, denen der Faden künstlich entnommen wurde. Nach Camboués Vorbild sollte dort Spinnenseide in großem Maßstab hergestellt werden. Dazu wurde eine Vorrichtung benutzt, mit der zwölf Spinnen gleichzeitig der Faden entnommen und gezwirnt werden konnte. Der Faden wurde auf einer normalen Spinnmaschine später verdoppelt, um einen Faden mit 24 Strängen zu erhalten. Dazu wurden in manchen Monaten über 10.000 Spinnen gesammelt. In einem Jahr wurden so 175.000 Meter 12-fädiges Garn gewonnen. Aus diesem Garn wurden für die Weltausstellung in Paris 1900 Behänge für ein von einheimischen Handwerkern gefertigtes Bett hergestellt, dessen Spinnenseidentuch in der Presse mit begeisterten Worten beschrieben wurde.[12]
+
+Der Textilkünstler Simon Peer und der Unternehmer Nicholas Godley begannen 2004 mit der Gewinnung von Spinnenseide aus lebenden Seidenspinnen. In Madagaskar ließen sie mehr als eine Million Seidenspinnen sammeln und gewannen daraus Spinnenseide. Es dauerte acht Jahre, um genug Seide für einen 1,5 Kilogramm schweren goldenen Umhang zu gewinnen, der in verschiedenen Museen ausgestellt wurde.[19] Die Anzahl der benötigten Spinnen entsprach damit der Größenordnung, die Réaumur bereits zu Beginn des 18. Jahrhunderts berechnet hatte.[12] Für das Sammeln der Spinnenseide ist es zudem erforderlich, die Spinne durch Abkühlung zu betäuben. Anschließend werden die Spinnwarzen mit einer kleinen Bürste stimuliert, um die Faserproduktion anzuregen. Dieser Prozess muss für jede Spinne individuell durchgeführt werden.[20]
+
+Forschungsgeschichte
+
+Emil Fischer (um 1895)
+Die ersten chemischen Untersuchungen von Spinnenseide der Spinne Nephila madagascariensis aus Madagaskar führte Emil Fischer im Jahr 1907 durch. Fischers Analysen ergaben, dass Spinnenseide eine Proteinfaser ist, die hauptsächlich aus Aminosäuren besteht, jedoch keinen Seidenleim wie die Seide der Seidenspinnerraupe enthält. Als Hauptbestandteile wurden die Aminosäuren Glycin, Alanin, Leucin, Prolin, Tyrosin sowie ein relativ hoher Gehalt an Glutaminsäure bestimmt, die in gewöhnlicher Seide nicht gefunden wurde. Weitere Bestandteile waren Diaminosäuren wie Arginin sowie im geringeren Maße Fettsäuren und Calcium-, Phosphor- und Schwefelkompenten.[18]
+
+Aminosäuren und ihr Anteil in der Spinnenseide des Abseilfadens nach Emil Fischer[18]
+Aminosäure	Anteil in [%]	Einbuch-
+stabencode	Strukturformel
+Glycin	35,13	G	Strukturformel von Glycin
+Alanin	23,4	A	Struktur von Alanin
+Glutaminsäure	11,7	E	Struktur von Glutaminsäure
+Tyrosin	8,2	Y	Struktur von Tyrosin
+Arginin	5,24	R	Struktur von Arginin
+Prolin	3,68	P	Struktur von Prolin
+Leucin	1,76	L	Struktur von Leucin
+
+Goldene Seidenspinne beim Netzbau. Auf den Fang­fäden sind Tröpfchen der klebrigen Aggregat­seide zu sehen
+In den 1950er und 1960er Jahren wurde die Aminosäurezusammensetzung der Fibroine verschiedener Spinnenseiden genauer untersucht und die Endgruppen und die durchschnittliche molare Masse bestimmt. Es wurde festgestellt, dass das Fibroin in der Spinndrüse eine viel geringere molare Masse hatte, und es wurde erkannt, dass neue Bindungen geknüpft werden, wenn der Faden von der Spinndüse abgezogen wird.[21][22] Röntgenuntersuchungen der Spinnenseiden zeigten, dass sie aus verschiedenen Typen von Fibroinen aufgebaut waren, die röntgenografisch unterschieden werden konnten. Die Fibroine bestanden aus antiparallel gefalteten Polypeptidketten, wobei die Unterschiede zwischen den Fibroinen auf die Variation der Aminosäuresequenzen zurückgeführt wurden. Zudem wurde der repetitive Aufbau von Proteinketten mit glycin- und alaninreichen Domänen erkannt und die besonderen mechanischen Eigenschaften der Spinnenseiden untersucht.[23][24]
+
+Anfang der 1980er Jahre ergab eine Molmassenbestimmung des Major-Ampullate-Spidroins der Goldenen Seidenspinne mittels SDS-PAGE eine molare Masse von 326.000 Gramm pro Mol oder 326 Kilodalton. SDS-Page ist eine analytischen Methode zur Auftrennung von Stoffgemischen nach der molarer Masse im elektrischen Feld.[25]
+
+Die Sequenzierung von Nukleinsäuren ist gewöhnlich schneller als die Proteinsequenzierung. Da die Aminosäuresequenz und die Basensequenz komplementäre Informationen liefern, wird üblicherweise die Nukleotidsequenz des entsprechenden Gens bestimmt.[26] In den 1990er Jahren gelang so die Bestimmung der repetitiven Sequenz eines Spidroins aus der Major-Ampullate-Seide der Spinne Nephila clavipes mit Hilfe eines partiellen cDNA-Klons.[27] Somit gelang es, die Eigenschaften der Spinnenseide mit der Molekülgeometrie zu erklären. Mit der Isolierung von cDNA begannen Versuche, Spinnenseidenproteine rekombinant herzustellen und künstliche Spinnenseiden zu gewinnen. Erste Ergebnisse zeigten, dass sich die so gewonnenen Spinnenseiden-Proteinfragmente mit herkömmlichen Spinntechniken nicht zu Fasern verspinnen lassen. Es zeigte sich, dass die mechanischen Eigenschaften der Spinnenseide nicht nur durch die Aminosäuresequenz festgelegt sind, sondern auch durch die Prozesse, die im Spinnapparat ablaufen. Es wurde zudem deutlich, dass die Größe und die sich wiederholenden Gene der Spinnenseide es schwierig machen, sie in Expressionssystemen wie Bakterien zu erhalten.[28] Die 1993 gegründete Unternehmen „Nexia Biotechnologies“ injizierte Gene der Seidenspinne in Mäuseembryonen und später in Ziegen. Die gentechnisch veränderten Ziegen lieferten Milch, aus der Spinnenseidenproteine gewonnen werden konnten.[29]
+
+Biosynthese
+Der Bau eines Radnetzes der Gartenkreuzspinne mit 18 Zentimetern Durchmesser benötigt insgesamt etwa 18 Meter Spinnenseide, wobei der Hinterleib mit den Spinndrüsen lediglich etwa 10 Millimeter lang und 7 Millimeter breit ist, die entsprechenden Spinndrüsen sind nochmals kleiner. Die Spinne ist in der Lage, das Netz ohne Nahrungsaufnahme vier bis sechsmal zu erneuern.[30]
+
+Die Bildung einer festen Faser aus einem löslichen Spinnenseidenprotein erfolgt in der Natur durch komplexe biochemische und physikalische Prozesse. Zunächst wird ein lösliches prepolymeres Vorprodukt in spezialisierten Spinndrüsen produziert und gespeichert. Der äußere Teil der Drüsen wird als Spinnwarze bezeichnet.[31]
+
+Seiden­drüsen der Web­spinnen
+Seiden­drüsen der Web­spinnen[32]
+
+Spinn­warzen und Anzahl der Spinnspulen(Zahlen in Klammern) von Araneus sp.
+Spinn­warzen und Anzahl der Spinnspulen
+(Zahlen in Klammern) von Araneus sp.
+Kreuzspinnen besitzen etwa 850 Spinnspulen. Diese sitzen auf den paarweise angeordneten Spinnwarzen am Hinterleibsende. Die Seide der Piriformdrüse wird über 500 Spinnspulen der vorderen Spinnwarzen, die Aciniformseide über 14 Spinnspulen der mittleren Spinnwarze und 300 Spinnspulen der hinteren Spinnwarze ausgestoßen. Die Seide der Großen Ampullendrüse wird über zwei Spinnspulen der vorderen Spinnwarze, die der Kleinen Ampullendrüse über zwei Spinnspulen der mittleren Spinnwarze ausgestoßen. Die Tubuliformseide wird über sechs Spinnspulen ausgestoßen, davon zwei an der mittleren Spinnwarze und vier an der hinteren Spinnwarze. Die Aggregatseide wird über vier Spinnspulen an der hinteren Spinnwarze, die flagelliforme Seide über zwei Spinnspulen ebenfalls an der hinteren Spinnwarze ausgestoßen.[31]
+
+MA-Drüse
+Die Bildung der Major-Ampullate-Seide in der Großen Ampullendrüse wurde eingehend untersucht. Die Drüse lässt sich in vier Zonen unterteilen: einem Drüsenfortsatz, dem Drüsenkörper und einem S-förmigen Spinnkanal, der in einer Spinnspule endet. Im Drüsenfortsatz befinden sich Epithelzellen, die Spidroin-Proteine produzieren und diese über sekretorische Vesikel unter Proteinakkumulation in den Drüsenkörper abgeben. In den Spinndrüsenzellen produziert das endoplasmatische Retikulum die Seidenproteine, der Golgi-Apparat spielt keine Rolle.[33]
+
+
+Ausstoß von Spinnen­seiden­fäden aus Spinn­spulen (rasterelektronen­mikro­skopische Aufnahme)
+Nach der Mizellentheorie dimerisieren diese Spidroin-Proteine unter Bildung eines amphiphilen Moleküls. Die Dimerisierung erfolgt über eine Disulfidbrücke im C-Terminus. Die dimerisierten Proteine liegen im Drüsenkörper in hochkonzentrierter Form vor und bilden bei neutralem bis leicht basischen pH-Wert Mizellen.[34] Wird die Flüssigkeit in den Spinnkanal gedrückt, findet in einem pH-Gradienten unter Dehydratisierung und Ionenaustausch ein Phasenübergang von einer flüssigkristallinen Phase zum Feststoff statt.[35]
+
+Der S-förmige Spinnkanal der großen Ampullendrüse, der für die Ausrichtung der Seidenfaser verantwortlich ist, lässt sich wiederum in drei Abschnitte einteilen, wobei die Kurven die Abschnitte unterteilen. Der Spinnkanal verengt sich von einem Durchmesser von etwa 100 Mikrometer auf kleiner 10 Mikrometer an der Spule. In jedem Abschnitt haben die Spidroinmoleküle eine andere Orientierung. Beim Durchlaufen des Spinnkanals richten sich die Spinnenseidenproteine zunächst parallel aus und bilden im ersten Abschnitt eine nematische Phase. Im zweiten Abschnitt des Spinnkanals ordnen sie sich zu Doppelschichten an.
+
+Im dritten Abschnitt des Spinnkanals findet eine Konformationsänderung von einer Random-Coil-Konformation zu β-Faltblattstrukturen statt, die durch das Absinken des pH-Werts der Spinnlösung unterstützt wird. Dadurch wird die Glutaminsäure der Spinnenseidenproteine neutralisiert, die unter physiologischen Bedingungen deprotoniert als Glutamat vorliegt. Durch die Neutralisation werden die abstoßenden Wechselwirkungen der negativ geladenen Carboxylatgruppen aufgehoben, was die Ausrichtung der Seidenmoleküle zu β-Faltblättern begünstigt.[36]
+
+Im hinteren Teil des Spinnkanals geliert die Spinnlösung unter Erhöhung der Viskosität. In Verbindung mit einer dort schnelleren Strömung unterstützt dies die Verstreckung der Faser. Die den Drüsenkanal umgebende Schicht hat die Struktur einer Dialysemembran und ermöglicht den Epithelzellen mit Mikrovilli am Drüsenkanalausgang eine rasche Wasseraufnahme und Änderung der Ionenzusammensetzung während des Spinnprozesses.[34]
+
+Die Spinndrüsen besitzen keine Auspressmuskulatur. Die Seide kann durch eine Erhöhung des hydrostatischen Drucks der Hämolymphe, durch aktives Ziehen der Hinterbeine, durch Fallenlassen oder Laufen aus den Spinnspulen austreten.[33] Die als Ventil bezeichnete Struktur dient wahrscheinlich dazu, die Faser vorzuschieben, um die Faserbildung nach einem inneren Fadenbruch wieder aufzunehmen, wobei der Ventildurchmesser die Fadendicke beeinflusst.[33][37]
+
+Spinnenseidentypen
+
+In Bernstein konservierte Nephila burmanica beim Angriff auf Cascoscelio incassus in ihrem Netz, etwa 100 Millionen Jahre alt
+Alle Spinnen produzieren Seide und nutzen verschiedene Seidenarten auf vielfältige Weise.[38] Attercopus, eine ausgestorbene Gattung früher Spinnentiere der Ordnung Uraraneida, die vor etwa 390 Millionen Jahren im Devon lebte, wird als einer der frühesten bekannten Verwandten der modernen Spinnen angesehen. Es handelte sich nicht um eine echte Spinne, aber Attercopus besaß bereits die Fähigkeit, Spinnenseide zu produzieren. Ihr fehlten jedoch einige Merkmale moderner Spinnen, darunter die Spinnwarzen.[39]
+
+Die älteste nachgewiesene Vogelspinnenart stammt aus der Trias, während die älteste sicher beschriebene Echte Webspinne aus der Jurazeit stammt. Fossilien echter Netzspinnen aus der Kreidezeit belegen eine rezente Spinnenfauna in dieser Zeit. Insgesamt war die Spinnenfauna des Tertiärs fast identisch mit der heutigen.[39]
+
+Alle Spinnen produzieren verschiedene Arten von Spinnenseide, wobei einige Seidenarten und die damit verbundenen Proteine auf bestimmte Abstammungslinien beschränkt sind. Ein Beispiel ist die Entwicklung der Aggregatseide, die für Radnetzspinnen charakteristisch ist. Der damit verbundene Übergang von horizontalen zu vertikalen Fangnetzen und der dadurch ermöglichte Beutefang fliegender Insekten wird als die evolutionäre Innovation angesehen, die für die hohe Diversität dieser Überfamilie verantwortlich ist.[38]
+
+Viele fossile Spinnen liegen als Einschlüsse in Bernstein vor. Die ältesten bekannten Einschlüsse von Spinnenseide in Bernstein sind etwa 140 Millionen Jahre alt und stammen aus der frühen Kreidezeit.[40] Die entscheidenden Aminosäuresequenzen der Spidroine der Radnetzspinnen haben sich über 125 Millionen Jahre Entwicklungsgeschichte erhalten. Dies deutet darauf hin, dass diese Sequenzen für die mechanischen Eigenschaften der Radnetzspinnenseide entscheidend sind.[41]
+
+
+Sieben Arten von Spinnenseide:
+a) Major-Ampullate-Seide für Netz­rahmen- und -speichen, Abseil­faden
+b) Minor-Ampullate-Seide für Hilfs­spirale
+c) Flagelliforme Seide für die Fang­spirale
+d) Piriformseide für die An­haftung an Substrate
+e) Tubuliformseide für den Ei­kokon
+f) Aciniformseide für die Umhüllung der Beute und die Ausk­leidung des Ei­kokons
+g) Aggregatseide für die klebrige Be­schichtung der Fang­spirale
+In Jahrmillionen der Evolution bildeten die Webspinnen sieben verschiedene Seidentypen aus, die von unterschiedlichen Spinndrüsen für unterschiedliche Zwecke produziert werden. Im World Spider Catalog des Naturhistorischen Museums Bern waren im März 2025 über 52.000 anerkannte Webspinnenarten verzeichnet.[42] Die große Artenvielfalt von Spinnen lässt sich möglicherweise durch mehrere bedeutende Artbildungsereignisse in Zusammenhang mit der Entwicklung neuer Typen von Spinndrüsen und Spinnenseidenarten erklären, da neue Seidenarten entscheidende Veränderungen der Seidennutzung erlaubten.[43]
+
+Der einfach gebaute Spinnapparat der vogelspinnenartigen Spinne Antrodiaetus unicolor besteht aus einer einzigen Seidendrüse, die zwei Arten von Proteinen produziert, die über zwei Paare von Spinnwarzen abgesondert werden. Die Seide ist zweischichtig aufgebaut und besteht aus einem Kern und einer äußeren Schicht.[44] Der Spinnapparat höher entwickelter Spinnen besteht aus bis zu sieben verschiedenen Drüsen, die sich morphologisch und histologisch unterscheiden. Dazu gehören die Kleine und die Große Ampullendrüse, die Aciniformdrüse, die Tubuliformdrüse, die Aggregatdrüse, die Piriformdrüse und die Flagelliformdrüse, die manchmal als Coronatadrüse bezeichnet wird. Jede Drüse besitzt einen Spinnkanal, der zu einer Spinnwarze führt, in der die Seidenfäden durch mehrere, manchmal bis zu mehreren hundert Spindeln geführt werden.[45]
+
+Major-Ampullate-Seide
+Die Major-Ampullate-Seide wird beim Spinnennetzbau für die Konstruktion des Rahmens und der Speichen verwendet. Darüber hinaus wird sie als Abseilfaden, zur Absicherung und für den Spinnenflug genutzt. Nach ihrer Verwendung wird sie daher als Rahmen-, Abseilfaden-, Zugleinen- oder Schleppseilseide bezeichnet, wobei der entsprechende englische Begriff „Dragline-Seide“ ebenfalls gebräuchlich ist.[46]
+
+Sie wird in der Großen Ampullendrüse gebildet und besteht zum Beispiel bei der Goldenen Seidenspinne (Nephila clavipes) hauptsächlich aus zwei Strukturproteinen, die als die Major-Ampullate-Spidroine, einem Kofferwort aus Spider (engl. für ‚Spinne‘) und Fibroin, Spidroin 1 (MaSp1) und Spidroin 2 (MaSp2) bezeichnet werden.[47] Mit einem Durchmesser von etwa 3 bis 5 Mikrometern ist sie die breiteste Faser der Goldenen Seidenspinne. Die Fibroine des Abseilsfadens aus der Großen Ampullendrüse der Gartenkreuzspinne (Araneus diadematus) werden als Araneus-Diadematus-Fibroin-3 (ADF-3) und Araneus-Diadematus-Fibroin-4 (ADF-4) bezeichnet.[48] Die Analyse der Aminosäurezusammensetzung des Abseilfadens von Goldener Seiden- und Gartenkreuzspinne ergab ein molekulares Verhältnis von etwa 3 : 2 zwischen MaSp1 und MaSp2 beziehungsweise zwischen ADF-4 und ADF-3.[49] Da Spinnen bei der Fortbewegung permanent einen Schleppseilfaden aus Major-Ampullate-Seide zur Absicherung spinnen, kann durch gleichmäßiges Abziehen dieses Fadens eine größere Menge dieser Seide gewonnen werden.
+
+Flagelliforme- und Aggregatseide
+Lichtmikroskopische Aufnahme eines mit Aggregat­seiden­tröpfchen beschichteten Fangfadens
+Lichtmikroskopische Aufnahme eines mit Aggregat­seiden­tröpfchen beschichteten Fangfadens
+
+Bolaspinne mit Fangfaden und Klebe­tröpfchen
+Bolaspinne mit Fangfaden und Klebe­tröpfchen
+Die flagelliforme- und die Aggregatseiden bilden die Fäden der Fangspirale des Netzes. Die flagelliforme Seide selbst ist nicht klebrig. Ecribellate Spinnen bringen daher eine Schicht aus klebriger, wasserlöslicher Aggregatseide auf die flagelliforme Seide der Fangspirale auf, um die Beute im Netz zu halten. Die Spinnwarze der Flagelliformdrüse ist dazu zwischen zwei Spinnwarzen der Aggregatdrüse angebracht. Beim Ausstoß der Spiralfaser wird gleichzeitig die klebrige Beschichtung aufgebracht. Die Aggregatseide bedeckt die Faser zunächst gleichmäßig, bildet jedoch aufgrund der Rayleigh-Instabilität spontan eine Reihe von relativ gleichmäßig verteilten Tröpfchen.[50] Die Aggregatseide hat viskoelastische Eigenschaften und hält so die physikalische Verbindung zum Fangfaden aufrecht, wenn sie mit Beute in Berührung kommt. Die Aggregatseide besteht aus einer inneren Schicht aus Glykoproteinen und einer äußeren Schicht aus niedermolekularen Verbindungen und Salzen. Die äußere Schicht ist hygroskopisch und nimmt Wasser aus der Atmosphäre auf, wodurch die Solvatisierung der Glykoproteine unterstützt wird. Eine hohe Luftfeuchtigkeit erhöht daher die Klebekraft.[51]
+
+Durch die Kombination aus der Stärke und Steifigkeit der Rahmenseide und der Dehnbarkeit der Fäden der Fangspirale kann die kinetische Energie von fliegenden Insekten, die auf das Netz treffen, absorbiert werden. Die klebrige Aggregatseide hält die Insekten lange genug fest, um von den Spinnen gefunden und gefangen zu werden. Die verschiedenen mechanischen und chemischen Eigenschaften der Netzseiden haben einen synergetischen Effekt, der die cribellaten Fäden beim Fangen von Beutetieren übertrifft.[50]
+
+Die Klebetröpfchen der Bolaspinnen sind eine Sonderform der Aggregatseide. Die Klebetröpfchen enthalten ein Sexualpheromon der Eulenfalter, um damit männliche Falter anzulocken und zu fangen.[52] Zudem durchdringt die Aggregatseide der Klebetröpfchen die Schuppen der Nachtfalter und haftet an der darunter liegenden Kutikula, so dass die Falter nicht durch den Abrieb der Schuppen entkommen können.[50]
+
+
+Fangseide einer cribellaten Spinne
+Im Gegensatz zu der mit Aggregatseide beschichteten flagelliforme Seide der ecribellaten Spinnen ist die Fangseide der cribellaten Spinnen ohne klebrige Beschichtung aufgebaut. Cribellate Spinnen besitzen ein Cribellum (lateinisch kleines Sieb), eine Spinnplatte mit etwa 40.000 bis 50.000 Spinnspulen. Das sind kleine Röhrchen oder Öffnungen, die sich unmittelbar vor den Spinnwarzen befinden. Die Seide wird in gewöhnlichen Spinndrüsen produziert und in 10 bis 15 Nanometern dünnen Fäden über die Spinnspulen des Cribellums ausgeschieden. Mittels des Calamistrums, Kamm-ähnlichen Borsten am Fersenglied (Metatarsus) des vierten Beinpaares, wird die Fangwolle aus dem Cribellum gekämmt. Durch das Kämmen laden sich die Fasern auf, wodurch sie sich gegenseitig abstoßen und zu einem wollartigen Geflecht ausdehnen. Das so entstandene Geflecht wird auf die dickeren, mikrometerbreiten Achsfäden des Netzes aufgebracht. Die Fäden haben ein schnurartiges Erscheinungsbild und sind bläulich gefärbt. Insekten verfangen sich in den Fäden wie in einem Klettverschluss.[50]
+
+Minor-Ampullate-Seide
+Minor-Ampullate-Seide wird für die Hilfsspirale verwendet und dient der Netzverstärkung. Zahlreiche Radnetzspinnen entfernen die temporären Spiralen beim Bau der Fangspiralen und fressen die Minor-Ampullate-Seide. Einige Spinnen, wie die Seidenspinnen, entfernen die temporären Spiralen jedoch nicht und verwenden sie in ihren fertigen Netzen. Die Minor-Ampullate-Seide besteht aus den beiden Minor-Ampullate-Spidroinen MiSp1 und MiSp2, die in der Kleinen Ampullendrüse der Goldenen Seidenspinne nachgewiesen wurden.[53]
+
+Aciniformseide
+
+Umhüllung der Beute mit Aciniform­seide, die über Hunderte von Spinn­spulen aus­gestoßen wird
+Aciniformseide wird zum Einwickeln von Beutetieren verwendet, ihre antibakteriellen Eigenschaften verzögern zudem die bakterielle Zersetzung der Beute und minimieren dessen mikrobielle Belastung.[54] Sie wird zudem für Spermiennetze, Stabilimente und für die Auskleidung der Kokons verwendet. Die Arten der Gattung der Echten Krabbenspinnen nutzen ein Gemisch aus Aciniformseide und Seide der Kleinen Ampullendrüse für den Spinnenflug.[43] Aciniformseide besteht aus einem einzigen Protein, dem aciniformen Spidroin 1 (AcSp1). Es weist im Vergleich zu den Major-Ampullate-Spidroinen einen deutlich geringeren Glycin- und Alaningehalt auf.
+
+Tubiliformseide
+
+Eikokon eines Spinnenfressers aus Tubuliformseide
+Die Tubiliformseide wird zum Bau des Eikokons verwendet und ist die einzige Seide, die nur während der Fortpflanzungszeit produziert wird. Aufgrund ihres hohen Serin- und sehr niedrigen Glycingehalts ist sie unter den Spinnenseiden einzigartig. Sie besteht aus dem tubuliformen Spinnenseidenprotein (TuSp1) und den Kokonproteinen (Egg Case Protein) ECP 1 und 2. Möglicherweise ist die Tubuliformseide die Urform der Spinnenseide, aus der sich die anderen Seidenarten entwickelt haben.[55]
+
+Piriformseide
+Piriformseide dient dazu, als Klebepunkte die Hilfs- und die Fangspirale mit dem Rahmen zu verbinden, das Netz an den Befestigungsstellen der Umgebung zu fixieren und die für die Fortbewegung der Spinne wichtigen Schleppfäden zu sichern. Die Piriformseide wird in der Piriformdrüse produziert und tritt aus einem kurzen Spinnkanal aus, der in einer düsenartigen Spinnwarze mündet.[56]
+
+In der Spinnwarze der Piriformdrüse befinden sich zahlreiche Spinnspulen, die zum Ausstoßen der Fasern dienen, die dabei eine netzartige Struktur bilden. Die Piriformseide wird in flüssiger Form ausgeschieden, die unter Umgebungsbedingungen in weniger als einer Sekunde polymerisiert. Dabei bildet sie eine Struktur, die als Haftscheibe bezeichnet wird. Eine Haftscheibe der Seidenspinne Nephila senegalensis, die an einer Glasscheibe befestigt wird, kann bis zum Sechsfachen ihres eigenen Körpergewichts halten.[35]
+
+Die Hauptbestandteile des Piriformseidenproteins sind Piriformspidroin 1 (PiSp1) und Piriformspidroin 2 (PiSp2). Diese weisen im Vergleich zu anderen Spidroinen einen hohen Gehalt an hydrophilen Resten auf, die zu starken Wechselwirkungen zwischen dem Sekretionsfilm und dem Substrat führen.[35]
+
+Biotechnologische Herstellung
+
+Biotechnologische Her­stellung des Ab­seil­faden­proteins MaSp1 mittels des photo­synthetischen Purpur­bakteriums Rhodovulum sulfidophilum[57]
+a. Produktion von MaSp1 im Neun-Liter-Maßstab
+b. Lyophilisierung von reinem MaSp1 nach His-Tag-Affinitäts- und Gelfiltrations-Chromatographie-Reinigung
+c. Faserextrusion durch Ziehen von Hand mit einer Pinzette mit gereinigtem MaSp1, gelöst in Hexa­fluor­isopropanol, mit Isopropanol als Koagulations­bad
+Auch wenn im Vergleich zu anderen Seidenarten größere Mengen von Major-Ampullate-Seide aus lebenden Spinnen gewonnen werden kann, ist diese Art der Gewinnung im großen Maßstab zeitaufwändig und schwierig. Spinnen benötigen lebende Insekten für ihre Ernährung, sind territorial und neigen bei hoher Populationsdichte zum Kannibalismus, so dass es schwierig ist, sie in großen Mengen zu halten.[58]
+
+Industrielle Produzenten
+Angesichts der Produktionsprobleme mit lebenden Spinnen wurde nach anderen Wegen zur Herstellung von Spinnenseide gesucht. Eine mögliche Alternative für die Synthese von Spinnenseidenproteinen ist der Einsatz gentechnischer Methoden. Die Proteinbiosynthese von Spinnenseidenproteinen in Fremdorganismen oder Zellen sollte die industrielle Produktion erleichtern. Ein bedeutender Durchbruch in der wissenschaftlichen Erforschung von Spinnenseide wurde 1990 erzielt, als erstmals die repetitive Sequenz eines Spidroins der Major-Ampullate-Seide der Goldenen Seidenspinne anhand eines partiellen cDNA-Klons bestimmt wurde.[27]
+
+Die ersten Versuche zur gentechnischen Herstellung von Spinnenseidenproteinen führte das 1993 gegründete Unternehmen Nexia Biotechnologies durch. Es extrahierte rekombinante Versionen zweier Spidroine der Goldenen Seidenspinne, MaSp1 und MaSp2, aus der Milch transgener Ziegen. Die Seidenproteine wurden in Lösungsmitteln gelöst und mittels Nassspinnverfahren zu Mikrofasern verarbeitet. Das Unternehmen wurde 2005 an PharmAthene verkauft und ging 2009 in Konkurs. Die Forschung wurde an der Utah State University weitergeführt, 2012 gab es etwa 30 dieser Ziegen auf einer von der Universität betriebenen Farm.[59]
+
+
+Rasterelektronen­mikroskopische Auf­nahme einer bio­techno­logisch her­gestellten Spinnen­seiden­faser[57]
+Unternehmen, die Produkte aus Spinnenseide herstellen, waren zu Beginn des Jahres 2025 meist Start-up-Unternehmen und befanden sich in unterschiedlichen Stadien der Kommerzialisierung. Einige Produkte sind bereits auf dem Markt, während andere noch mit verschiedenen Industriepartnern getestet werden. Im Jahr 2008 wurde in München das Unternehmen AMSilk gegründet, die sich auf die Produktion von Biopolymeren aus synthetischer Spinnenseide spezialisiert hat. Das Unternehmen produziert Spinnenseidenproteine für Kosmetika und Fasern. Die industrielle Herstellung der Spinnenseidenproteine erfolgt nach einem von AMSilk patentierten Verfahren in einer Fermentationsanlage von Evonik Industries in der Slowakei. Die Fertigung erfolgt als Pulver, Hydrogel, Faser oder Beschichtung.[60] Thomas Scheibel, Mitgründer von AMSilk, wurde 2013 für „herausragende Forschungsarbeiten zur biotechnologischen Herstellung und Charakterisierung von Spinnenseide-Proteinen“ mit dem Dechema-Preis ausgezeichnet.[61]
+
+Das US-amerikanische Unternehmen Bolt Threads stellte im Jahr 2017 eine limitierte Auflage von Krawatten her, die mit Spinnenseidenfasern gefertigt wurden und arbeitet mit der britischen Modedesignerin Stella McCartney und Adidas an biologisch abbaubarer Kleidung. Kraig Biocraft Laboratories produziert gentechnisch veränderte Spinnenseide für technische Textilien. Inspidere, ein niederländisches Start-up-Unternehmen, stellt synthetische Spinnenseiden-Verbundwerkstoffe her, die beispielsweise im Automobilbau Leder ersetzen sollen. Das israelische Start-up-Unternehmen Seevix stellt künstliche Spinnenseide her, die als chirurgisches Nahtmaterial eingesetzt werden kann.[62] Der Markt für Spinnenseide wurde auf 1,1 Milliarden US-Dollar im Jahr 2020 geschätzt.[63] Das Marktpotenzial für textile, militärische, medizinische und kosmetische Produkte aus Spinnenseide wird auf etwa 50 Milliarden US-Dollar pro Jahr geschätzt.[64]
+
+Expressionssysteme
+Für die biotechnologische Produktion ist sowohl die Wahl des Expressionssystems als auch die Entwicklung von Verarbeitungsprozessen wichtig. Bakterien und Hefen liefern relativ große Mengen an Proteinprodukten, die für Massenprodukte wie Textilien geeignet sein können. Höhere Organismen wie transgene Seidenraupen, Pflanzen oder Säugetiere eignen sich vermutlich besser für medizinische und kosmetische Anwendungen.[64]
+
+Jeder Wirtsorganismus hat unterschiedliche Vor- und Nachteile für die Produktion von Spinnenseidenproteinen. Bakterien sind leicht genetisch manipulierbar und kostengünstig in der Fermentation, die Produktion größerer Spidroine ist jedoch nicht möglich. Hefen ermöglichen hohe Produktausbeuten, wobei die Expressionseffizienz mit zunehmender Gengröße sinkt. Der Einsatz von Pflanzen erlaubt die Produktion langkettiger Spinnenseidenproteine, wobei die Generationszeiten im Vergleich zur bakteriellen Fermentation lang sind. Zudem ist die gentechnische Manipulation aufwändig und bei Feldversuchen ist mit Feldzerstörungen zu rechnen.[34]
+
+Prokaryotische Wirte
+
+Molekularer Aufbau des rekombinanten Proteins eADF-4(C16)[65]
+
+Schematische Darstellung der Hybridbildung durch genetische Fusion[66]
+Eine Möglichkeit der technischen Herstellung von Spinnenseidenproteinen ist die Verwendung von leicht kultivierbaren prokaryotischen Wirten wie Bakterien. Eine biotechnologische Produktion im industriellen Maßstab zu realisieren, stellte eine große Herausforderung dar. Um Spinnenseidenproteine biotechnologisch herzustellen, wurden zahlreiche Versuche unternommen, die genetische Information der Spinnenseide in industriell produzierbare Mikroorganismen wie Escherichia coli einzubauen. E. coli sind kostengünstig zu kultivieren, unter guten Bedingungen liegt die Generationszeit bei 20 Minuten und sie können in hoher Dichte vermehrt werden, was hohe Ausbeuten ermöglicht.[67] Erste Versuche scheiterten jedoch an der unterschiedlichen Codierung der genetischen Information in Spinne und Mikroorganismus.[68]
+
+Es zeigte sich, dass in prokaryotischen Expressionssystemen nur synthetische Gene mit begrenzter Größe exprimiert werden.[69] Proteine, die auf den Aminosäuresequenzen natürlicher Spinnenseide basieren und diesen ähnlich sind, können mittels spezifischer Gene erzeugt werden, die auf synthetischer DNA oder auf einer Kombination von mittels Polymerase-Kettenreaktion angereicherten authentischen Gensequenzen beruhen.[70]
+
+Dabei wird beispielsweise eine repetitive Sequenz eines Spinnenseidenproteins durch Klonierung in für die biotechnologische Produktion optimierte Gene übersetzt. Mit Hilfe der reversen Transkription können so synthetische Oligonukleotide hergestellt und kloniert werden. So besteht das rekombinante Spinnenseidenprotein eADF-4(C16) („engineered“ ADF-4) aus einer 16-fachen Wiederholung einer repetitiven Sequenz des ADF-4-Spidroins der Gartenkreuzspinne, der Konsensussequenz „Modul C“.[65] Die Aminosäuresequenz rekombinanter Spinnenseiden kann zudem modifiziert werden, um Spinnenseiden mit maßgeschneiderten Eigenschaften für biomedizinische Zwecke zu produzieren.[70]
+
+Eukaryotische Wirte
+Mit Hilfe gentechnisch veränderter eukaryotischer Wirte können rekombinante Seidenproteine auf der Basis von Spinnen-cDNA hergestellt werden, die den Proteinen der natürlichen Spinnenseide ähneln. Die Nachteile bei der Nutzung von eukaryotischen Expressionssysteme sind unter anderem hohe Kosten und technische Probleme bei der Aufreinigung der Proteine sowie die Weiterverarbeitung.[69]
+
+So gelang zwar die Synthese von künstlichen Spinnenseidenproteinen mit Hilfe von transgenen Ziegen, jedoch konnten aus den gewonnenen Proteinen zunächst keine Fasern hergestellt werden, die die mechanischen Eigenschaften der natürlichen Spinnenseide erreichten. Neben dem biotechnologischen Herstellungsprozess war es daher erforderlich, die Schritte des natürlichen Spinnprozess zu entschlüsseln, um ein industrielles Spinnverfahren für Spinnenseidenproteine zu entwickeln.[68]
+
+Neben Ziegen wurden Insektenzellen von Spodoptera frugiperda, Säugetierzellen wie BHK- und COS-Zellen, transgene Tiere wie Mufflons, Mäuse und Seidenspinner, Hefen wie Pichia pastoris und Backhefe sowie Pflanzen wie Virginischer Tabak, die Reispflanze Oryza sativa und Acker-Schmalwand als Expressionssysteme verwendet.[64][65] Sowohl die Verwendung transgener Säugetiere als auch die von genetisch manipulierten Pflanzen ist rechtlich und ethisch umstritten.[34]
+
+Verarbeitung
+
+Elektrospinnen von Spinnenseide
+Je nach Verfahren können die gewonnenen Proteine zu Fasern, Vliesstoffen, Gelen und anderen Produkten verarbeitet werden.[64] Die Verarbeitung wird durch chemische, thermische oder mechanische Faktoren beeinflusst. Für die Herstellung von Fasern aus Spinnenseidenproteinen bieten sich das Nassspinnen und das biomimetische Spinnen an. Beim Nassspinnverfahren werden die Proteine zunächst gelöst und dann in ein Koagulationsbad aus beispielsweise Aceton extrudiert. Die mechanischen Eigenschaften der verschiedenen Spinnenseidenfasern lassen sich bei dieser Methode kaum vorhersagen, es besteht jedoch eine Korrelation zwischen abnehmendem Durchmesser der Faser und zunehmendem molaren Masse des Proteins.[65]
+
+Beim biomimetischen Spinnen wird versucht, Faktoren wie den pH-Wert, den Ionenaustausch, die Wasserkonzentration sowie Dehn- und Scherkräfte während der Faserproduktion zu kontrollieren. Die Geräte für das biomimetische Spinnen sollen die Vorgänge in den Seidendrüsen nachahmen und die chemischen und mechanischen Parameter steuern, die für die Herstellung von Spinnenseidenfasern relevant sind.[65]
+
+Zur Herstellung von Vliesstoffen aus Spinnenseidenproteinen eignet sich das Elektrospinnen. Bei diesem Verfahren werden elektrisch geladene Fäden mit Hilfe eines elektrischen Felds aus einer Polymerlösung gezogen. Dabei verdampft das Lösungsmittel, beispielsweise Ameisensäure, Hexafluorisopropanol oder Hexafluoraceton, bevor es die Gegenelektrode erreicht. Bei diesem Verfahren werden keine Koagulationschemikalien benötigt, um aus einer Lösung feste Fasern zu erzeugen. Der Faserdurchmesser kann durch eine Vielzahl von Parametern beeinflusst werden, wie die Konzentration der Polymerlösung oder der Abstand zur Gegenelektrode. Zudem beeinflussen die Temperatur und die relative Luftfeuchtigkeit die Faserbildung.[65]
+
+Hydrogele sind Gele aus Netzwerkkomponenten, in denen Wasser immobilisiert ist.[71] Mit Spinnenseidenproteinen erfolgt die Bildung von Hydrogelen in genügend konzentrierten wässrigen Lösungen spontan durch β-Faltblattbildung. Diese bilden ein Netzwerk, die das solvatisierende Wasser gelieren. Die Bildung von Hydrogelen wird unter anderem durch den pH-Wert und die Temperatur beeinflusst. Bei pH-Werten um den isoelektrischen Punkt wird die Gelbildung durch hydrophobe Wechselwirkungen beschleunigt. Bei höheren Temperaturen sind die hydrophoben Bereiche der Spinnenseidenproteine weniger gut solvatisiert, was ebenfalls die Aggregation begünstigt.[72] Die Spinnenseidenhydrogele eignen sich für die Aufnahme von Wirkstoffmolekülen für Anwendungen, bei denen eine konstante Freisetzung aus biologisch abbaubaren Trägern erwünscht ist.[73]
+
+Eigenschaften
+
+Schematischer Aufbau einer Spinnen­seiden­faser[64]
+Die Faser des Abseilfadens hat je nach Spinnenart und dem Alter der Spinne einen Durchmesser von 1 bis 20 Mikrometern und weist eine Kern-Schalen-Struktur auf. Der Kern der Faser besteht aus zwei Spidroinen, MaSp 1 und 2, die überwiegend aus Glycin, Alanin und Prolin aufgebaut sind. Der Kern ist von einer Haut aus einem weiteren spidroinähnlichen Protein umgeben. Unmittelbar darauf folgend eine Glykoproteinschicht, die aus Proteinen mit kovalent an die Aminosäureseitenketten gebundenen Kohlenhydratresten besteht. Den äußeren Abschluss der Faser bildet eine Lipidschicht.[64]
+
+Die mechanischen Eigenschaften des Abseilfadens werden hauptsächlich durch die Seidenproteine im Kern bestimmt. Die äußeren Schichten schützen den Faserkern vor bakteriellen und Pilzinfektionen.[47]
+
+Chemische Eigenschaften
+Je nach Spinnenseidenart und Herstellungsverfahren liegen die Spinnenseidenproteine in gelöster oder fester Form vor. Für die Weiterverarbeitung müssen Proteine, die in fester Form als gefriergetrocknetes Pulver, Fasern oder Partikel vorliegen, gelöst werden. Wasserunlösliche Proteine können in Denaturierungsmitteln gelöst werden. Dies können hochkonzentrierte Salzlösungen sein, die Lithiumbromid, Lithiumthiocyanat oder andere chaotrope Verbindungen enthalten. Auch ionische Flüssigkeiten sind mögliche Lösungsmittel. Spinnenseidenproteine lösen sich in Hexafluorisopropanol, gegebenenfalls unter Zusatz von Ameisensäure und Hexadecyltrimethylammoniumbromid oder unter Zusatz eines Tris/HCl-Puffers bei pH 7,5 und PEG-400. Die gelösten Proteine können für kosmetische Zwecke oder zum Elektrospinnen verwendet werden. Die verwendeten Lösungsmittel müssen vor dem Gebrauch von der Faser mit Wasser oder Ethanol abgewaschen werden.[48]
+
+Molekulare Eigenschaften
+Primärstruktur
+Innerhalb eines Proteins sind die Aminogruppen der Aminosäuren mit den Carboxylgruppen anderer Aminosäuren über Peptidbindungen zu einer Kette verbunden. Die Peptidbindung entsteht durch eine Kondensationsreaktion zwischen der Amino- und der Carboxylgruppe der beteiligten Aminosäuren unter Wasserabspaltung. Das freie Elektronenpaar der Aminogruppe wirkt bei der Reaktion als Nukleophil und ersetzt die Hydroxygruppe unter Bildung der Peptidbindung.
+
+Beispiel einer Peptidbindung
+Kondensationsreaktion von zwei Molekülen Alanin zum Dipeptid
+Dadurch bleibt an einem Ende, dem so genannten C-Terminus, eine freie Carboxylgruppe und am anderen Ende, dem so genannten N-Terminus, eine freie Aminogruppe zurück. Konventionell werden Proteinsequenzen vom N-Terminus zum C-Terminus, zum Beispiel im Einbuchstabencode, von links nach rechts, geschrieben, was die Übersetzungsrichtung mit der Textrichtung korreliert, denn wenn ein Protein von der Boten-RNA übersetzt wird, entsteht es vom N-Terminus zum C-Terminus, da Aminosäuren immer an das Carboxylende des Proteins angehängt werden. Die Spinnenseidenproteine haben die Struktur eines Blockcopolymers.[74] Das ADF-4-Spidroin der Gartenkreuzspinne hat eine Molekülmasse von etwa 350 Kilodalton, wobei der nicht-repetitive C-Terminus eine Molekülmasse von etwa 11,9 Kilodalton hat.[65]
+
+Spidroinstrukturen
+Primärstruktur eines Spidroins
+Die verschiedenen Spinnenseidenarten enthalten unterschiedliche Fibroine, die zur Gruppe der Strukturproteine gehören. Die am intensivsten studierten Spinnenseidenproteine sind die Fibroine des Abseilfadens, die so genannten Major-Ampullate-Spidroine. Die Faser der Abseilseide besteht hauptsächlich aus zwei Spidroinen, Spidroin 1 (MaSp1) und Spidroin 2 (MaSp2), wobei es bei den verschiedenen Spinnenarten Unterschiede in deren Struktur gibt. Diese Spinnenseidenproteine zeigen eine hochrepetitive Kernsequenz aus bestimmten Strukturmotiven. Dazu zählen Poly-Alaninblöcke (An oder (GA)n; mit A für Alanin, G für Glycin), GPGXX (P für Prolin, X oft Glutamin) und GGX sind die Konsensusmotive der Kernregion der Spidroine der großen Ampullendrüse, die unter den Radnetzspinnen seit etwa 125 Millionen Jahren hochkonserviert sind.[41]
+
+Sekundärstruktur
+
+Mikrostruktur eines Spinnen­seiden­fadens mit kristallinen und nicht-kristallinen Bereichen
+Bei der Bildung von Proteinen reagiert die Carboxygruppe einer Aminosäure formal unter Wasserabspaltung mit der Aminogruppe einer anderen Aminosäure zur Säureamidgruppierung. Die dabei entstehende Peptidbindung hat einen hohen Doppelbindungscharakter und ist daher nicht frei drehbar und im Vergleich zu anderen Kohlenstoff-Stickstoff-Bindungen um 14 Pikometer verkürzt. Diese starre, planare Struktur der Peptidbindung spielt eine wichtige Rolle bei der Ausbildung der Sekundärstruktur von Proteinen, das heißt der lokalen Faltungsmuster des Polypeptidgerüsts wie Helices oder Faltblattstrukturen. Aufgrund der sterischen Hinderung nehmen die meisten Peptide bevorzugt eine trans-Konformation ein.[75]
+
+
+Mesomere Grenzstrukturen einer einfachen Peptidbindung in einem Dipeptid aus Alanin und Glycin
+Die meisten Spinnenseiden enthalten 310-Helix-bildende Glycin-Glycin-X-Sequenzmotive (X: variable Aminosäure), kristalline β-Faltblatt-reiche Poly-Alanin- und Poly-Glycin-Alanin-Motive, eine prolinreiche, elastische β-Helix-Region, die aus mehreren GPGXX-Motiven besteht und einer Spacer-Region mit unbekannten Funktionen.[43]
+
+In Spinnenseide vorkommende Sekundärstrukturen
+(X: variable Aminosäure)[49]
+Spidroin	Elastische
+β-Helix
+(GPGXX)	Kristallines
+β-Faltblatt
+(Ala-reich)	310-Helix
+(GGX)	Spacer	nicht-
+repetitive
+C-Termini
+MaSp1		✓	✓		✓
+MaSp2	✓	✓			✓
+ADF-3	✓	✓	✓		✓
+ADF-4	✓	✓			✓
+MiSp1		✓	✓	✓	✓
+MiSp2		✓	✓	✓	✓
+Flag	✓		✓	✓	✓
+Die Sekundärstrukturen werden durch die Bildung von Wasserstoffbrückenbindungen stabilisiert. Bei Helix-Strukturen treten die Wasserstoffbrückenbindungen innerhalb einer Polypeptidkette auf, bei der β-Faltblattstruktur zwischen benachbarten Polypeptidketten. Random-Coil-Strukturen sind Konformationen, bei denen die monomeren Untereinheiten zufällig ausgerichtet sind, während sie noch mit benachbarten Einheiten verbunden sind. Es handelt sich um eine statistische Verteilung von Makromolekülen.[75]
+
+Wasserstoffbrückenbindungen in verschiedenen Helix-Strukturen
+Wasserstoffbrückenbindungen des Peptidrückgrats verschiedener Helices
+Mechanische Eigenschaften
+Spinnenseidenfasern gehören zu den stärksten, dehnbarsten und zähesten bekannten biologischen Materialien und übertreffen in ihren Eigenschaften viele technische Werkstoffe. Grundlegende Materialeigenschaften sind neben der Dichte die Zugfestigkeit, der Elastizitätsmodul, die Bruchdehnung und die Zähigkeit, die üblicherweise im Zugversuch bestimmt werden.[76] Aufgrund ihrer mechanischen Eigenschaften kann Spinnenseide den Aufprall von fliegenden Insekten unbeschadet überstehen und nach einer Dehnung wieder in den Ausgangszustand zurückkehren.[1]
+
+Neben der chemischen Zusammensetzung beeinflusst die Spinngeschwindigkeit die mechanischen Eigenschaften beispielsweise der Major-Ampullate-Seide, je nachdem, ob sie zum Netzbau oder zur Flucht vor Fressfeinden verwendet oder beim erzwungenen Melken gewonnen wird. Abseilfäden werden beim Netzbau mit einer Geschwindigkeit von etwa einem Zentimeter pro Sekunde produziert, beim schnellen Absinken auf der Flucht kann sich die Spinngeschwindigkeit auf das Zehnfache erhöhen.[77]
+
+Mechanische Eigenschaften von Fasern[78]
+Material	Dichte
+[g/cm3]	E-Modul
+[GPa]	Zugfestig-
+keit [GPa]	Bruch-
+dehnung [%]	Zähigkeit
+[MJm−3]
+Abseilfaden1	1,3	11,5	1,65	68	354
+Fangspirale2	1,3	0,003	0,5	270	150
+Seide	1,3	7	0,6	18	70
+Nylon 6.6	1,1	5	0,85	18	80
+Kevlar	1,4	130	3,6	2,7	50
+Stahl	7,8	200	1,5	0,8	6
+1: Abseilfaden der Darwinschen Rindenspinne[79]; 2: Fangspirale der Gartenkreuzspinne
+Sie können weiterhin durch Faktoren wie Umgebungstemperatur, Ernährungszustand, Körpergewicht und Feuchtigkeit beeinflusst werden. Trotz der ähnlichen chemischen Proteinstruktur einer bestimmten Seidenart variieren die mechanischen Eigenschaften von Spinnenart zu Spinnenart, zwischen Individuen derselben Art und selbst in der Seidenproduktion desselben Individuums.[80]
+
+Dichte
+
+Die Darwinsche Rindenspinne produziert Spinnen­seide mit bemerkens­werter Zug­festig­keit und Zähig­keit[79]
+Die Dichte, das Verhältnis von Masse zu Volumen, ist für den Vergleich mechanischer Eigenschaften verschiedener Fasern bei gleicher Masse relevant. Spinnenseide weist als Proteinfaser nur etwa ein Sechstel der Dichte von Stahl auf.[81] Der Abseilfaden der Darwinschen Rindenspinne hat etwa die Zugfestigkeit von Stahl, kann jedoch aufgrund der geringeren Dichte bei gleicher Masse einer sechsmal höheren mechanischen Spannung widerstehen.[79]
+
+Elastizitätsmodul
+Der Elastizitätsmodul ist eine materialspezifische Kennzahl, die vom englischen Naturforscher Thomas Young eingeführt wurde und auch als Young-Modul bezeichnet wird. Er ist ein Maß für die Kraft, die ein Werkstoff einer elastischen Verformung entgegensetzt und ist das Verhältnis zwischen der mechanischen Spannung und der axialen Dehnung im linear-elastischen Bereich einer Faser. Der Elastizitätsmodul wird in Pascal gemessen, wobei typische Werte im Bereich von Gigapascal (GPa) liegen. Im Spannungs-Dehnungs-Diagramm entspricht er der Steigung im linear-elastischen Bereich.[82]
+
+Der Elastizitätsmodul steigt mit dem Widerstand, den ein Werkstoff seiner elastischen Verformung entgegensetzt. Gummi, das sich bei zunehmender mechanischer Spannung schnell dehnt, hat einen niedrigen Elastizitätsmodul. Dagegen hat Stahl, der sich bei zunehmender Spannung nur langsam dehnt, einen hohen Elastizitätsmodul von etwa 200 Gigapascal.[83] Der Elastizitätsmodul von Kevlar liegt bei 130, der von Nylon bei 5 und der Rahmenfaden eines Spinnennetzes bei etwa 10 Gigapascal. Der Elastizitätsmodul der Fangspirale beträgt dagegen nur 0,003 Gigapascal.[78]
+
+Zugfestigkeit
+Die Zugfestigkeit ist definiert als die maximale mechanische Spannung, die auf einen Werkstoff ausgeübt werden kann, bevor er reißt oder bricht. Für Fasern ist dies ein wichtiger Kennwert, da er die Festigkeit der Faser unter Zugbeanspruchung angibt. Fasern mit hoher Zugfestigkeit eignen sich besonders für Anwendungen, bei denen hohe mechanische Belastungen auftreten. Die Dimension der Zugfestigkeit ist die Kraft pro Fläche und wird ebenfalls in der Einheit Pascal (Pa) gemessen. Typische Werte liege hier ebenfalls im Gigapascal-Bereich (1 GPa = 1 Milliarde Pa). Der Schleppseilfaden von Nephila clavipes hat eine Zugfestigkeit von 4 Gigapascal, der Schleppseilfaden der Gartenkreuzspinne Araneus diadematus 1,1 Gigapascal und ihre Fangspirale 0,5 Gigapascal.[84][78]
+
+Bruchdehnung
+Die Bruchdehnung ist die maximale Verlängerung einer Faser verglichen mit der ursprünglichen Länge beim Riss, angegeben in Prozent. Sie ist ein Maß für die Verformbarkeit einer Faser im plastischen Bereich bis zum Bruch. Als spezifischer Werkstoffkennwert dient sie zur Charakterisierung und zum Vergleich verschiedener Werkstoffe.[76] Die Bruchdehnung des Abseilfadens der Darwinschen Rindenspinne ist mit 68 % fast viermal höher als die von Nylon oder Seidenspinnerseide.[78]
+
+Zähigkeit
+
+Netz der Darwinschen Rindenspinne
+Zähigkeit ist die Fähigkeit der Faser, einer Verformung zu widerstehen, bevor sie reißt. Der Abseilfaden der Darwinschen Rindenspinne ist um ein Vielfaches zäher als die meisten bekannten Fasern. Sie gilt als eines der höchstentwickelten Strukturproteine der Natur und als eines der zähesten bekannten biologischen Materialien. Einzelne Proben erreichen eine Zähigkeit von bis zu 520 Megajoule pro Kubikmeter, die durchschnittliche Zähigkeit liegt bei etwa 350 Megajoule pro Kubikmeter. Damit ist sie mehr als doppelt so zäh wie jede andere Spinnenseide. Die etwa 18 bis 22 Millimeter große Spinne baut flussüberspannende Netze mit bis zu 25 Meter langen Ankerfäden und einer Fläche von bis zu 2,8 Quadratmetern und nutzt so einen Lebensraum, den keine andere Spinne nutzen kann.[79]
+
+Superkontraktion
+Durch den Kontakt mit Wasser, etwa bei hoher Luftfeuchtigkeit oder Morgentau, kann sich ein Abseilseilfaden um bis zu 60 % verkürzen, wobei sich sein Umfang entsprechend vergrößert. Dieser Vorgang wird als Superkontraktion bezeichnet und ist das Ergebnis eines Übergangs von einer hochorientierten glasartigen Phase zu einer gummiartigen Phase durch Umorientierung der Wasserstoffbrückenbindungen.[85]
+
+Der Superkontraktionsindex SC ist definiert als
+
+S
+C
+=
+L
+0
+−
+L
+c
+L
+0
+{\displaystyle SC={\frac {L_{0}-L_{c}}{L_{0}}}}
+wobei L0 die ursprüngliche Faserlänge und Lc die Länge der superkontrahierten Faser ist. Die Werte des Superkontraktionsindex variieren je nach Fasertyp und je nachdem, ob die Faser natürlich gesponnen oder durch erzwungenes Melken gewonnen wurde. Für den natürlich gesponnenen Abseilfaden von Nephila sp. beträgt der Wert etwa 0,2, für den durch erzwungenes Melken gewonnenen Abseilfaden von Argiope trifasciata etwa 0,52.[86]
+
+Die Superkontraktion ist ein umkehrbarer Vorgang. Getrocknete und auf ihre ursprüngliche Länge geschrumpfte Spinnenseide verhält sich annähernd wieder wie Seide vor der Superkontraktion. Es wird daher vermutet, dass die Superkontraktion der Mechanismus ist, der die Spannung in Spinnnetzen aufrechterhält.[87]
+
+Molekulardynamik-Simulation
+
+Durch molekular­dynamische Simu­lation erstelltes Bild eines Spinnen­seiden­proteins[88]
+Durch Molekulardynamik-Simulationen, das sind Computersimulationen mit geeigneten Kraftfeldern wie CHARMM, lassen sich die mechanischen Eigenschaften der Spinnenseide auf der Basis der Primärstruktur und der sich daraus ergebenden Sekundärstruktur des Proteins simulieren. Die Simulation ermöglicht Erkenntnisse über atomare Mechanismen wie die Entfaltung von Helixstrukturen oder andere Konformationsänderungen. Ein computersimulierter Zugversuch ermöglicht es beispielsweise, das Verhältnis zwischen Spannung und Dehnung mit Vorgängen auf molekularer Ebene zu erklären und mit experimentellen Werten zu vergleichen.[89]
+
+In einem simulierten Zugversuch wird das Protein zunächst rein reversibel gedehnt. Die nichtkristalline Phase ist zu Beginn ein verknäultes Netzwerk, das durch ungeordnete Wasserstoffbrückenbindungen zusammengehalten wird. Wird die Spannung erhöht, beginnen die Wasserstoffbrücken in der nichtkristallinen Phase zu brechen, bis diese schließlich vollständig gedehnt ist. Wird der Faden noch weiter gedehnt, so wird der zusätzliche Dehnungsanteil durch das Auseinandergleiten der β-Faltblatt-Kristalle geleistet.[89]
+
+Die Simulation zeigte zudem, dass die β-Faltblatt-Kristalle nur bei einer Größe von 2 bis 4 Nanometern stabil sind, was mit experimentell ermittelten Werten übereinstimmt. Diese Größe der β-Faltblatt-Kristalle wird zudem nur erreicht, wenn sich die Poly-Alanin-Segmente in der Polymerkette vier- bis sechsmal wiederholen. Größere Kristalle würden nicht durch Scherverformung, sondern durch Biegeverformung versagen.[89]
+
+Verwendung
+Die Verwendungsmöglichkeiten von Spinnenseide sind äußerst vielfältig. Dazu gehören die Verwendung im medizinischen Bereich, etwa zur Beschichtung von Brustimplantaten, im militärischen Bereich, etwa für die Herstellung von beschusshemmenden Westen, in der Kosmetik, in der Automobilfertigung, als Verbundwerkstoff und vieles mehr. Goodyear beispielsweise stellte 2020 einen selbstreparierenden Autoreifen vor. Dieser enthält eine Flüssigkeitskapsel eines auf Spinnenseide beruhenden Materials, das die Lauffläche bei einem Defekt repariert.[90]
+
+Medizinische Verwendung
+
+Verwendungsmöglichkeiten von Spinnenseide im medizinischen Bereich[91]
+Spinnenseidenproteine können in verschiedenen Anwendungsformen eingesetzt werden. Sie finden als Fäden für Nahtmaterial (1D), als Wundauflagen (2D), als Matrizen für das Tissue Engineering (3D), für Retardformulierungen und für andere Hydrogele Verwendung. Viele Verwendungsmöglichkeiten wurden bereits erprobt, bis März 2024 gab es jedoch noch keine klinischen Studien für die Verwendung von Spinnenseide im medizinischen Bereich.[91]
+
+Entscheidend für den Einsatz von Spinnenseide in der Medizin sind die Toxizität und die Immunogenität. Eine generelle immunologische Bewertung von Spinnenseidenproteinen für medizinische Anwendungen ist schwierig, da sich die Spinnenseidenproteine je nach Spinnenart und Spinnenseidenart unterscheiden. Zudem gibt es verschiedene Methoden der Gewinnung und Vorbehandlung. Spinnenseide kann zudem direkt von der Spinne oder aus dem Spinnennetz gewonnen werden oder biotechnologisch hergestellt werden.[92][93]
+
+
+Raster­elektronen­mikroskopische Auf­nahme von ge­flochtenen Spinnen­seidenfäden
+Die Verwendung der Seide des Seidenspinners als Nahtmaterial für chirurgische Eingriffe wurde bereits um 150 n. Chr. von dem griechischen Arzt und Anatom Galenos beschrieben.[70] Natürliche Spinnenseiden, wie beispielsweise Schleppseidenfäden, können ebenfalls zu Nahtmaterial geflochten werden, wobei die Art der Verflechtung die Biomechanik des geflochtenen Materials beeinflusst.[94]
+
+Spinnenseide ist biologisch abbaubar und könnte helfen, durchtrennte Nervenfasern beim Menschen wieder zusammenwachsen zu lassen. In In-vitro-Versuchen wurde Spinnenseide in Zellkulturen gesponnen und mit menschlichen Modellneuronen versetzt. Dadurch erhielten die Nervenzellen eine Wachstumsrichtung. Bis zu sechs Zentimeter konnten so überbrückt werden. Bei Schafen konnten die Nervenenden mit dieser Methode wieder gut zusammenwachsen.[80][95][96]
+
+Um die Verträglichkeit von Brustimplantaten zu verbessern, wurde eine Beschichtung aus Spinnenseidenproteinen entwickelt. Dadurch soll das Auftreten der teilweise schmerzhaften Kapselfibrose reduziert werden. Eine klinische Wirksamkeitsstudie ohne Kontrollgruppe oder Verblindung wurde zwar 2019 konzipiert, aber nicht durchgeführt.[97]
+
+Für den Gewebeersatz werden 3D-Strukturen benötigt, die den Platz des zu ersetzenden Gewebes einnehmen. Rekombinante Spinnenseidenproteine wie eADF-4(C16) lassen sich zu Hydrogelen mit speziellen rheologischen, mechanischen, biofunktionellen und biokompatiblen Eigenschaften verarbeiten. In diese Hydrogele können Zellen direkt verkapselt werden und so die Grundlage für einen Gewebeersatz bilden.[98] Die Kombination von Zellen und biopolymeren Gelen wird als „Biotinte“ bezeichnet. Biotinten können verwendet werden, um künstliches lebendes Gewebe durch 3D-Druck herzustellen und gelten als eines der fortschrittlichsten Werkzeuge für das Tissue Engineering.[99]
+
+Mikropartikel aus synthetischen Spinnenseidenproteinen wie eADF-4(C16) werden nur langsam enzymatisch abgebaut und eignen sich als Wirkstoffträger für Retardformulierungen. In vitro wurden Freisetzungsraten über einen Zeitraum von zwei Wochen unter physiologischen Bedingungen erzielt. Dadurch ließe sich die Anzahl der Medikamentengaben reduzieren und die Bioverfügbarkeit der Medikamente verbessern.[73]
+
+Bekleidung
+Slip aus „Micro­silk“ von Bolt Threads
+Slip aus „Micro­silk“ von Bolt Threads
+
+Hemd aus „Biosteel“ von Nexia Bio­technologies
+Hemd aus „Biosteel“ von Nexia Bio­technologies
+Die Spinnenseidenfaser von AMSilk wurde von Adidas zur Herstellung eines Prototyps eines biologisch abbaubaren Laufschuhs verwendet. AMSilk kooperiert weiterhin mit dem Schweizer Luxusuhrenhersteller Omega bei der Herstellung von Uhrenarmbändern.[100] Das japanische Unternehmen Spiber stellt Fasern aus künstlicher Spinnenseide her. Die sogenannten „Brewed Protein“-Fasern basieren auf durch mikrobielle Fermentation gewonnenen Proteinen. Zu den Anwendern der Spiber-Fasern gehören unter anderem The North Face und Goldwin, ein japanischer Bekleidungshersteller.[101]
+
+In Zusammenarbeit mit Stella McCartney wurden Kleidungsstücke aus Bolt Threads „Microsilk“-Fasern hergestellt und im Museum of Modern Art ausgestellt.[102] Zudem wurde Unterwäsche aus „Microsilk“ in Partnerschaft mit dem Designlabel Strumpet & Pink gefertigt und im Rhode Island School of Design Museum präsentiert.[103] Der Designer und Künstler Sruli Recht entwarf ein „Biosteel“-Hemd aus Proteinfasern der Goldenen Seidenspinne, die aus der Milch gentechnisch veränderter Ziegen des kanadischen Unternehmens Nexia Biotechnologies gewonnen wurden. Das Hemd wurde ebenfalls im Rhode Island School of Design Museum ausgestellt.[104]
+
+Kosmetik
+Der brasilianische Kosmetikkonzern Natura & Co, der unter anderem die Handelskette The Body Shop betrieb, setzte rekombinante Spinnenseidenproteine von AMSilk in ihren Haarpflegeprodukten zur Reduzierung der Haarporosität ein.[105] Im Jahr 2019 wurde die Kosmetiksparte von AMSilk durch den Schweizer Kosmetikhersteller Givaudan übernommen. Ziel der Übernahme war die Erweiterung der Verwendung der Spinnenseidentechnologie in Kosmetikprodukten.[106] Givaudan hatte bis Mai 2023 mehr als 100 Konsumgüter auf den Markt gebracht, die auf der Spinnenseidentechnologie von AMSilk basieren, darunter Haar- und Hautpflegeprodukte sowie mikroverkapselte Duftstoffe.[107] Die Hautpflegeprodukte bestehen aus einem Gel, das eine atmungsaktive Schutzbarriere auf der Haut bildet, und kleinen Seidenproteinkügelchen, die der Haut ein seidiges Gefühl verleihen und Fette absorbieren.[106]
+
+Militärische Anwendungen
+Die Utah State University arbeitet mit der US Navy an der Entwicklung einer auf Spinnenseide basierenden Faser, die sich um eine Schiffsschraube wickeln und das Schiff so stoppen soll.[108] Kraig Biocraft Laboratories entwickelte im Auftrag der US Army ballistische Protektoren aus „Dragon Silk“, einer Spinnenseide, die mit Hilfe gentechnisch veränderter Seidenspinner hergestellt wird.[109]
+
+Aufgrund ihrer Flexibilität und Atmungsaktivität prüft die US Army, ob sich die Spinnenseide für die Herstellung von beschusshemmender Unterwäsche eignet. Das soll den Tragekomfort gegenüber Schutzwesten aus Kevlar erhöhen. Spinnenseide zeichnet sich zudem durch ihre Fähigkeit zur passiven Kühlung aus. An heißen Sommertagen kann die Temperatur von Zelten und Textilien aus Spinnenseide um 10 bis 15 °C unter der Temperatur von reflektierenden Materialien liegen. Darüber hinaus wird erwartet, dass Fallschirme aus Spinnenseide größere Nutzlasten tragen können.[110]
+
+Analytische Methoden
+Untersuchung der mechanischen Eigenschaften
+
+Spannungs-Dehnungs-Diagramm der Major-Ampullate-Seide im Vergleich zu Kevlar[111]
+Die mechanischen Eigenschaften der Spinnenseide werden mit Universalprüfmaschinen getestet. Bei einem Zugversuch wird die Seide bis zum Riss einer steigenden Zugbelastung ausgesetzt. Das resultierende Kraft-Weg-Diagramm gibt Auskunft über wichtigsten mechanischen Eigenschaften der Seide. Die aufgebrachte Kraft wird dabei gegen die Dehnung des Fadens bei der Dehnung bis zum Riss aufgetragen. Die Steifigkeit entspricht der anfänglichen Steigung der Belastungskurve. Das Konzept ist analog zur Federkonstante des Hookeschen Gesetzes und beschreibt die Änderung der Zugkraft in Abhängigkeit von der Dehnungsänderung. Die Zugfestigkeit gibt die Kraft an, die erforderlich ist, um einen Faden zum Reißen zu bringen. Die Dehnbarkeit entspricht der Dehnung, die zum Bruch des Fadens führt, während die Zähigkeit proportional zur Fläche unter der Belastungskurve ist. Sie gibt die Energie an, die im Verhältnis zum Querschnitt und zur Länge des Fadens aufgebracht werden muss, um einen Faden zum Reißen zu bringen.[111]
+
+Kernspinresonanzspektroskopie
+Die Kernspinresonanzspektroskopie (NMR), besonders die 13C-Festkörper-Kernspinresonanzspektroskopie, liefert Informationen über die Struktur und Dynamik der Spinnenseidenproteine auf molekularer Ebene. Die Konformation lässt sich etwa durch die Messung der chemischen Verschiebung bestimmen. Die Genauigkeit der Messungen lässt sich durch die Kombination mit Isotopenmarkierung erhöhen, etwa durch die Fütterung der Spinnen mit 13C-markiertem Alanin.[112]
+
+Circulardichroismus-Spektroskopie
+Die Circulardichroismus-Spektroskopie, kurz CD- oder UV-CD-Spektroskopie, analysiert die Absorption von zirkular polarisiertem Licht in Abhängigkeit von der Wellenlänge. Sie wird zur Analyse der Sekundärstruktur von Proteinen eingesetzt. Bestimmte Sekundärstrukturen wie α-Helix, β-Faltblatt- oder Random-Coil-Strukturen zeigen charakteristische Maxima und Minima im UV-Bereich zwischen 250 und 160 Nanometern.[113]
+
+Raman-Spektroskopie
+Die Raman-Spektroskopie wird verwendet, um einen strukturellen Fingerabdruck zu erstellen, anhand dessen Moleküle identifiziert werden können. Sie beruht auf der inelastischen Streuung von Photonen, der sogenannten Raman-Streuung. Dazu wird ein monochromatischer Laser verwendet. Das Laserlicht interagiert mit Molekülschwingungen, Phononen oder anderen Prozessen im System, wodurch die Energie der Laserphotonen verschoben wird. Die Energieverschiebung liefert Informationen über die Schwingungsmoden im System.[114] Mittels Raman-Spektroskopie lässt sich zum Beispiel die Entstehung von β-Faltblatt-Strukturen während des Spinnprozesses nachweisen.[89]
+
+Röntgenbeugung
+Die Röntgenbeugung war eine der ersten instrumentellen Methoden zur Untersuchung von Spinnenseide. Damit konnte gezeigt werden, dass es in den Spinnenseidenproteinen kristalline Bereiche gibt, die in eine amorphe Matrix eingebettet sind.[24] Mittels Weitwinkel- und Kleinwinkel-Röntgenstreuung lassen sich unter anderem der Kristallinitätsgrad von Seidenpolymeren bestimmen. Kleinwinkel-Röntgenstreuung eignet sich auch zur Ermittlung von Konformationen und der Änderung in Lösung.[115] Damit konnte etwa gezeigt werden, dass die Major-Ampullate-Seide von lebenden Nephila bereits am Ausgang der Spinndüse β-Faltblatt-Poly-Alanin-Kristallite enthält.[116]
+
+Literatur
+M. Heim, D. Keerl, T. Scheibel: Spinnenseide: vom löslichen Protein zur außergewöhnlichen Faser. In: Angewandte Chemie. 121.20, 2009, S. 3638–3650, doi:10.1002/ange.200803341
+Stefanie Wohlrab, Christopher Thamm, Thomas Scheibel: The Power of Recombinant Spider Silk Proteins. In: T. Asakura, T. Miller (Hrsg.): Biotechnology of Silk, Biologically-Inspired Systems 5. Springer Science & Business Media, Dordrecht, 2014, S. 179–201, doi:10.1007/978-94-007-7119-2 10.
+T. Lefèvre, M. Auger: Spider silk as a blueprint for greener materials: a review. In: International Materials Reviews. 61.2, 2016, S. 127–153, doi:10.1080/09506608.2016.1148894.
+Wolfgang Nentwig u. a. (Hrsg.): Spinnen – Alles, was man wissen muss. Springer Nature, 2022, ISBN 978-3-662-63397-7.
+Weblinks
+Commons: Spinnenseide – Sammlung von Bildern, Videos und Audiodateien
+Wiktionary: Spinnenseide – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+BBC Earth: Real-Life Spider Shoots Web 25 Metres Long! auf YouTube, 25. Juni 2017, abgerufen am 19. März 2025 (Laufzeit: 4:08 min).
+BBC: Spider Web Fishing – South Pacific auf YouTube, 9. Juni 2009, abgerufen am 19. März 2025 (Laufzeit: 2:29 min).
+Einzelnachweise
+ Y. Gu u. a.: Mechanical properties and application analysis of spider silk bionic material. In: e-Polymers. 20.1, 2020, S. 443–457, doi:10.1515/epoly-2020-0049.
+ James Newman, Catherine Newman: Oh what a tangled web: the medicinal uses of spider silk. In: International Journal of Dermatology. 34.4, 1995, S. 290–292, doi:10.1111/j.1365-4362.1995.tb01600.x.
+P. Dalzell, T. J. H. Adams, N. V. C. Polunin: Coastal Fisheries in the Pacific Islands. In: A. D. Ansell, R. N. Gibson, Margaret Barnes (Hrsg.): Oceanography and Marine Biology: an Annual Review. Bd. 34, UCL Press, London, 1996, ISBN 978-0-203-50126-9, S. 407.
+ Eleanor Morgan: Sticky Tales. Spiders, Silk, and Human Attachments. In: Dandelion: Postgraduate Arts Journal and Research Network. 2.2, 2011, doi:10.16995/ddl.253.
+Randall C. Brooks: Methods of Fabrication of Fiducial Lines for 17th – 19th Century Micrometers. In: Bulletin of the Scientific Instrument Society. 23, 1989, S. 11–14, (online)(PDF).
+Johann Evangelist Helfenzrieder: Beschreibung einer neuen Art eines astronomischen Quadranten mit Gläschen. Worauf man die kleinsten Theile eines Grades genauer, sicherer und leichter, als auf den bisher gewöhnlichen, bemerken kann, und was bey seiner Verfertigung besonders zu merken ist. Bd. 1, München, 1778, S. 119. (online).
+ Steven Turner: Spiders in the Crosshairs: Cobwebs, Instrument Makers, and the Search for the Perfect Line. In: Journal of the Antique Telescope Society. 1, 1992, S. 10–12, (online).
+R. Lewis: Unraveling the Weave of Spider Silk. In: BioScience. 46.9, 1996, S. 636–638, doi:10.2307/1312891.
+Paul Griveaud: The invertebrates. In: Alison Jolly, Philippe Oberle, Roland Albignac (Hrsg.): Key Environments: Madagascar. 3, 1984, Elsevier, ISBN 978-0-08-028002-8, S. 75–88.
+G. Campbell: The Decline of the Malagasy Textile Industry, c. 1800–1895. In: P. Machado, S. Fee, G. Campbell (Hrsg.): Textile Trades, Consumer Cultures, and the Material Worlds of the Indian Ocean. Palgrave Series in Indian Ocean World Studies, Palgrave Macmillan, Cham, 2018, ISBN 978-3-319-58264-1, S. 317.
+J. Merritt Matthews: Seide, ihre Herkunft und Kultur. In: J. Merritt Matthews, Walter Anderau, Hans Eduard Fierz-David: Die Textilfasern: Ihre physikalischen, chemischen und mikroskopischen Eigenschaften. Verlag von Julius Springer, Berlin, 1928, ISBN 978-3-642-91077-7, S. 178.
+ Simon Peer: The Extraordinary History of Spider Silk. In: Golden Spider Silk. Oliver Hoare Ltd., London, 2021, S. 67–93, (online).(PDF; 5,0 MB).
+ E. Morgan: Sticky Layers and Shimmering Weaves: A Study of Two Human Uses of Spider Silk. In: Journal of Design History. 29.1, 2015, S. 8–23, doi:10.1093/jdh/epv019.
+Fr. Dahl: Seidenspinne und Spinnenseide. In: Mitteilungen aus dem Museum für Naturkunde in Berlin. Zoologisches Museum Und Institut Für Spezielle Zoologie (Berlin). 6.1, 1912, S. 2–89, hier: S. 3, doi:10.1002/mmnz.19120060101.
+ Raimondo Maria de Termeyer: Researches and experiments upon silk from spiders, and upon their reproduction. Translated from the Italian. Reviewed by Burt G. Wilder. Communications Essex Institute, V.9., 1866, S. 67, (online).
+ Patent US51988: Improvement in modes of obtaining silk from living spiders and other silk-producers. Veröffentlicht am 9. Januar 1866, Erfinder: B. G. Wilder, S. Wales, WM. Nichols.‌
+Raimondo Maria de Termeyer: Researches and experiments upon silk from spiders, and upon their reproduction. Translated from the Italian. Reviewed by Burt G. Wilder. Communications Essex Institute, V.9., 1866, (online).
+ Emil Fischer: Über Spinnenseide. In: M. Bergmann (Hrsg.): Untersuchungen über Aminosäuren, Polypeptide und Proteine II (1907–1919). Emil Fischer Gesammelte Werke. Springer, Berlin, Heidelberg, 1923, S. 688–698, doi:10.1007/978-3-642-51825-6_66.
+Maev Kennedy: Spider silk cape goes on show at V&A. In: theguardian.com. 24. Januar 2012, abgerufen am 1. März 2025 (englisch).
+Anja Glisovic, Fritz Vollrath: Mulberry Silk, Spider Dragline and Recombinant Silks. In: Jörg Müssig (Hrsg.): Industrial Applications of Natural Fibres: Structure, Properties and Technical Applications. John Wiley & Sons, 2010, ISBN 978-0-470-69508-1, S. 246–247.
+G. Braunitzer, Dieter Wolff: Vergleichende chemische Untersuchungen über die Fibroine von Bombyx mori und Nephila madagascariensis. In: Zeitschrift für Naturforschung B. 10.7, 1955, S. 404–408, (online).(PDF).
+F. G. Fischer, J. Brander: Eine Analyse der Gespinste der Kreuzspinne. In: Hoppe-Seyler’s Zeitschrift für Physiologische Chemie. 320, 1960, S: 92–102, doi:10.1515/bchm2.1960.320.1.92.
+J. O. Warwicker: Comparative studies of fibroins. In: Journal of Molecular Biology. 2.6, 1960, S. 350–362, doi:10.1016/s0022-2836(60)80046-0.
+ R. E. Marsh, R. B. Corey, L. Pauling: An investigation of the structure of silk fibroin. In: Biochimica et Biophysica Acta. 16, 1955, S. 1–34, doi:10.1016/0006-3002(55)90178-5.
+G. C. Candelas, J. Cintron: A spider fibroin and its synthesis. In: Journal of Experimental Zoology. 216.1, 1981, S. 1–6, doi:10.1002/jez.1402160102.
+Daniel Voet, Judith G. Voet: Biochemie. VCH, Weinheim, New York, Basel, Cambridge, 1992, ISBN 978-3-527-28242-5, S. 829–840.
+ M. Xu, R. V. Lewis: Structure of a protein superfiber: spider dragline silk. In: Proceedings of the National Academy of Sciences. 87.18, 1990, S. 7120–7124, doi:10.1073/pnas.87.18.7120.
+D. S. Fudge, S. Hillis, N. Levy, J. M. Gosline: Hagfish slime threads as a biomimetic model for high performance protein fibres. In: Bioinspiration & Biomimetics. 5.3, 2010, doi:10.1088/1748-3182/5/3/035002.
+Christopher Helman: Charlotte's Goat. In: forbes.com. 6. Juni 2013, abgerufen am 1. März 2025.
+Kurt Floericke: Spinnen und Spinnenleben. Franckh’sche Verlagshandlung, Stuttgart, 1919, (online).
+ Wolfgang Nentwig u. a. (Hrsg.): Spinnen – Alles, was man wissen muss. Springer Nature, 2022, ISBN 978-3-662-63397-7, S. 73–91.
+Jane Gatwiri, Paul Kuria Kamweru: Spider silk: A natural marvel of mechanical and structural strength. In: African Journal of Biological Sciences. 3.4, 2021, S. 1–16, doi:10.33472/afjbs.3.4.2021.1-16.
+ Heinz Streble, Annegret Bäuerle: Histologie der Tiere. Ein Farbatlas. Springer, Berlin, Heidelberg, 2017, ISBN 978-3-662-53159-4, S. 78–79.
+ M. Heim, D. Keerl, T. Scheibel: Spinnenseide: vom löslichen Protein zur außergewöhnlichen Faser. In: Angewandte Chemie. 121.20, 2009, S. 3638–3650, doi:10.1002/ange.200803341.
+ T. Crawford u. a.: Molecular and Structural Properties of Spider Silk. In: E. Cohen, B. Moussian (Hrsg.): Extracellular Composite Matrices in Arthropods. Springer International Publishing Switzerland, 2016, doi:10.1007/978-3-319-40740-1_12, S. 445–487.
+O. Tokareva u. a.: Structure–function–property–design interplay in biopolymers: Spider silk. In: Acta Biomaterialia. 10.4, 2014, S. 1612–1626, doi:10.1016/j.actbio.2013.08.020.
+F. Vollrath, D. P. Knight: Structure and function of the silk production pathway in the Spider Nephila edulis. In: International Journal of Biological Macromolecules. 24.2–3, 1999, S. 243–249, doi:10.1016/s0141-8130(98)00095-6.
+ D. Dimitrov, G. Hormiga: Spider Diversification Through Space and Time. In: Annual Review of Entomology. 66.1, 2021, S. 225–241, doi:10.1146/annurev-ento-061520-083414.
+ Paul A. Selden, Jason A. Dunlop: Fossil taxa and relationships of chelicerates. In: Gregory D. Edgecombe (Hrsg.): Arthropod Fossils and Phylogeny. Columbia University Press, 1998, ISBN 978-0-231-09654-6, S. 303–331, (online), (PDF; 2,3 MB).
+M. Brasier, L. Cotton, I. Yenney: First report of amber with spider webs and microbial inclusions from the earliest Cretaceous (c. 140 Ma) of Hastings, Sussex. In: Journal of the Geological Society. 166.6, 2009, S. 989–997, doi:10.1144/0016-76492008-158.
+ J. Gatesy u. a.: Extreme Diversity, Conservation, and Convergence of Spider Silk Fibroin Sequences. In: Science. 291.5513, 2001, S. 2603–2605, doi:10.1126/science.1057561, JSTOR:3082839.
+Natural History Museum Bern: NMBE - World Spider Catalog. In: wsc.nmbe.ch. Abgerufen am 1. März 2025 (englisch).
+ H. Bargel, C. Hopfe, T. Scheibel: Proteinfasern als Hochleistungsmaterial. In: Biologie in unserer Zeit. 50.6, 2020, S. 434–443, doi:10.1002/biuz.202010724.
+C. L. Craig: Evolution of arthropod silks. In: Annual Review of Entomology. 42.1, 1997, S. 231–267, doi:10.1146/annurev.ento.42.1.231.
+H. M. Peters: Über den Spinnapparat von Nephila madagascariensis (Radnetzspinnen, Fam. Argiopidae). In: Zeitschrift für Naturforschung B. 10.7, 1955, S. 395–404, doi:10.1515/znb-1955-0708.
+F. Hagn, C. Thamm, T. Scheibel, H. Kessler: pH‐abhängige Dimerisierung und salzabhängige Stabilisierung der N‐terminalen Domäne von Abseilfaden‐Spinnenseide – Details zur Initiation des Assemblierungsprozesses. In: Angewandte Chemie. 123.1, 2010, S. 324–328, doi:10.1002/ange.201003795.
+ J. Li u. a.: Spider Silk‐Inspired Artificial Fibers. In: Advanced Science. 9.5, 2021, doi:10.1002/advs.202103965.
+ C. Belbéoch, J. Lejeune, P. Vroman, F. Salaün: Silkworm and spider silk electrospinning: a review. In: Environmental Chemistry Letters. 19.2, 2021, S. 1737–1763, doi:10.1007/s10311-020-01147-x.
+ T. Scheibel: Spider silks: recombinant synthesis, assembly, spinning, and engineering of synthetic proteins. In: Microbial Cell Factories. 3.1, 2004, doi:10.1186/1475-2859-3-14.
+ V. Sahni, T. A. Blackledge, A. Dhinojwala: A Review on Spider Silk Adhesion. In: The Journal of Adhesion. 87.6, 2011, S. 595–614, doi:10.1080/00218464.2011.583588.
+C. Heinritz, X. J. Ng, T. Scheibel: Bio‐inspired Protein‐Based and Activatable Adhesion Systems. In: Advanced Functional Materials. 34.35, 2023, doi:10.1002/adfm.202303609.
+K. F. Haynes u. a.: Aggressive chemical mimicry of moth pheromones by a bolas spider: how does this specialist predator attract more than one species of prey? In: Chemoecology. 12, 2002, S. 99–105, doi:10.1007/s00049-002-8332-2.
+H. Nakamura u. a.: Composition of Minor Ampullate Silk Makes Its Properties Different from Those of Major Ampullate Silk. In: Biomacromolecules. 24.5, 2023, S. 2042–2051, doi:10.1021/acs.biomac.2c01474.
+T. R. Sethy, J. Ahi: Spider Silk and the Silk of Egg Sacs with its Astonishing Concealed Attributes: A Review. In: Journal of Natural Fibers. 19.15, 2022, S. 11492–11506, doi:10.1080/15440478.2022.2025986.
+M. Tian, R. V. Lewis: Molecular Characterization and Evolutionary Study of Spider Tubuliform (Eggcase) Silk Protein. In: Biochemistry. 44.22, 2005, S. 8006–8012, doi:10.1021/bi050366u.
+Todd A. Blackledge: Spider silk: a brief review and prospectus on research linking biomechanics and ecology in draglines and orb webs. In: The Journal of Arachnology. 40.1, 2012, S. 1–12, JSTOR:41804566.
+ C. P. Fong u. a.: A marine photosynthetic microbial cell factory as a platform for spider silk production. In: Communications Biology. 3.1, 2020, doi:10.1038/s42003-020-1099-6.
+L. Römer, T. Scheibel: The elaborate structure of spider silk. In: Prion. 2.4, 2008, S. 154–161, doi:10.4161/pri.2.4.7490.
+Jesse Hirsch: The Silky, Milky, Totally Strange Saga of the Spider Goat. In: modernfarmer.com. 16. September 2013, abgerufen am 1. März 2025 (englisch).
+Alex Scott: Evonik to make spider silk for AMSilk. In: cen.acs.org. 26. Februar 2023, abgerufen am 8. März 2025 (englisch).
+Die DECHEMA-Preisträger seit 1951. In: dechema.de. 5. Juli 2024, abgerufen am 20. März 2025.
+5 Top Synthetic Spider Silk Startups Impacting The Materials Industry. In: startus-insights.com. 1. März 2020, abgerufen am 6. März 2025.
+Synthetic Spider Silk Market. In: rootsanalysis.com. 27. Januar 2025, abgerufen am 6. März 2025.
+ G. Guessous u. a.: Disentangling the Web: An Interdisciplinary Review on the Potential and Feasibility of Spider Silk Bioproduction. In: ACS Biomaterials Science & Engineering. 10.9, 2024, S. 5412–5438, doi:10.1021/acsbiomaterials.4c00145.
+ Stefanie Wohlrab, Christopher Thamm, Thomas Scheibel: The Power of Recombinant Spider Silk Proteins. In: T. Asakura, T. Miller (Hrsg.): Biotechnology of Silk, Biologically-Inspired Systems 5. Springer Science & Business Media, Dordrecht, 2014, S. 179–201, doi:10.1007/978-94-007-7119-2 10.
+A. P. Kiseleva, P. V. Krivoshapkin, E. F. Krivoshapkina: Recent Advances in Development of Functional Spider Silk-Based Hybrid Materials. In: Frontiers in Chemistry. 8, 2020, doi:10.3389/fchem.2020.00554.
+Jordan Raphel, Andreina Parisi-Amon, Sarah C. Heilshorn: Protein-Engineered Hydrogels. In: Andreas Taubert, Joao F. Mano, J. Carlos Rodriguez-Cabello (Hrsg.): Biomaterials Surface Science. Wiley–VCH, 2013, S. 216.
+ Thomas Scheibel: Biotech-Fasern mit naturidentischer Belastbarkeit. In: chemieundmore.com. 1. September 2013, abgerufen am 9. März 2025.
+ C. Vendrely, T. Scheibel: Biotechnological Production of Spider‐Silk Proteins Enables New Applications. In: Macromolecular Bioscience. 7.4, 2007, S. 401–409, doi:10.1002/mabi.200600255.
+ C. Holland, K. Numata, J. Rnjak‐Kovacina, F. P. Seib: The Biomedical Use of Silk: Past, Present, Future. In: Advanced Healthcare Materials. 8.1, 2018, doi:10.1002/adhm.201800465.
+Eintrag zu Hydrogel. In: IUPAC (Hrsg.): Compendium of Chemical Terminology. The “Gold Book”. doi:10.1351/goldbook.HT07519 – Version: 5.0.0.
+J. G. Hardy, L. M. Römer, T. R. Scheibel: Polymeric materials based on silk proteins. In: Polymer. 49.20, 2008, S. 4309–4327, doi:10.1016/j.polymer.2008.08.006.
+ A. Lammel u. a.: Recombinant spider silk particles as drug delivery vehicles. In: Biomaterials. 32.8, 2011, S. 2233–2240, doi:10.1016/j.biomaterials.2010.11.060.
+J. P. O’Brien, S. R. Fahnestock, Y. Termonia, K. H. Gardner: Nylons from Nature: Synthetic Analogs to Spider Silk. In: Advanced Materials. 10.15, 1998, S. 1185–1195, doi:10.1002/(sici)1521-4095(199810)10:15
+<1185::aid-adma1185>3.0.co;2-t.
+ Daniel Voet, Judith G. Voet: Biochemie. VCH, Weinheim, New York, Basel, Cambridge, 1992, ISBN 978-3-527-28242-5, S. 141–153.
+ Erich Bickel: Die metallischen Werkstoffe des Maschinenbaues. Springer, Berlin, Göttingen, Heidelberg, 1953, ISBN 978-3-642-52657-2, S. 160–167.
+D. Saravanan: Spider Silk – Structure, Properties and Spinning. In: Journal of Textile and Apparel, Technology and Management. 5.1, 2006, (online), (PDF; 0,2 MB).
+ L. Römer, T. Scheibel: Spinnenseidenproteine: Grundlage für neue Materialien. In: Chemie in unserer Zeit. 41.4, 2007, S. 306–314, doi:10.1002/ciuz.200700410.
+ J. E. Garb u. a.: The transcriptome of Darwin’s bark spider silk glands predicts proteins contributing to dragline silk toughness. In: Communications Biology. 2.1, 2019, doi:10.1038/s42003-019-0496-1.
+ F. Bergmann u. a.: The properties of native Trichonephila dragline silk and its biomedical applications. In: Biomaterials Advances. 140, 2022, S. 213089, doi:10.1016/j.bioadv.2022.213089.
+Dieter Veit: Fasern. Geschichte, Erzeugung, Eigenschaften, Markt. Springer Nature, 2023, ISBN 978-3-662-64469-0, doi:10.1007/978-3-662-64469-0, S. 393–396.
+Heidemarie Faulstich, Annerose Mally: Mechanische Eigenschaften. In: Werner Berger u. a.: Textile Faserstoffe. Beschaffenheit und Eigenschaften. Springer, Berlin, Heidelberg, 1993, ISBN 978-3-642-77655-7, S. 184–189.
+David Halliday, Robert Resnik, Jearl Walker: Halliday Physik. Wiley-VCH, Weinheim, 2009, ISBN 978-3-527-41368-3, S. 200–202.
+C. Allmeling, K. Reimers‐Fadhlaoui, P. M. Vogt: Spinnenseide in der plastischen Chirurgie. Wunderwerkstoff der Natur. In: Chemie in unserer Zeit. 41.6, 2007, S. 428–434, doi:10.1002/ciuz.200700425.
+N. Cohen, M. Levin, C. D. Eisenbach: On the Origin of Supercontraction in Spider Silk. In: Biomacromolecules. 22.2, 2021, S. 993–1000, doi:10.1021/acs.biomac.0c01747.
+M. Elices, G. R. Plaza, J. Pérez-Rigueiro, G. V. Guinea: The hidden link between supercontraction and mechanical behavior of spider silks. In: Journal of the Mechanical Behavior of Biomedical Materials. 4.5, 2011, S. 658–669, doi:10.1016/j.jmbbm.2010.09.008.
+Y. Liu, Z. Shao, F. Vollrath: Relationships between supercontraction and mechanical properties of spider silk. In: Nature Materials. 4.12, 2005, S. 901–905, doi:10.1038/nmat1534.
+T. Asakura: Structure and Dynamics of Spider Silk Studied with Solid-State Nuclear Magnetic Resonance and Molecular Dynamics Simulation. In: Molecules. 25.11, 2020, S. 2634, doi:10.3390/molecules25112634.
+ T. Giesa, M. J. Buehler: Spidermans Geheimnis. In: Physik in unserer Zeit. 44.2, 2013, S. 72–79, doi:10.1002/piuz.201301321.
+Joe Pinkstone: Goodyear unveils a self-regenerating TYRE that uses a capsule of biodegradable liquid 'inspired by spider silk' in the centre of the wheel to 'recharge' the tread. In: dailymail.co.uk. 3. März 2020, abgerufen am 20. März 2025.
+ M. Branković u. a.: Review of Spider Silk Applications in Biomedical and Tissue Engineering. In: Biomimetics. 9.3, 2024, S. 169, doi:10.3390/biomimetics9030169.
+F. Vollrath u. a.: Local tolerance to spider silks and protein polymers in vivo. In: In Vivo. 16.4, 2002, S. 229–234, PMID 12224131.
+H. Dams‐Kozlowska u. a.: Purification and cytotoxicity of tag‐free bioengineered spider silk proteins. In: Journal of Biomedical Materials Research Part A. 101A.2, 2012, S. 456–464, doi:10.1002/jbm.a.34353.
+K. Hennecke u. a: Bundles of Spider Silk, Braided into Sutures, Resist Basic Cyclic Tests: Potential Use for Flexor Tendon Repair. In: PLoS ONE. 8.4, 2013, S. e61100, doi:10.1371/journal.pone.0061100.
+Tolle Idee! Was wurde daraus? - Künstliche Spinnenseide. In: deutschlandfunk.de. 23. Februar 2025, abgerufen am 1. März 2025.
+Geschädigte Nerven und Gewebe mit Spinnenfäden reparieren. In: meduniwien.ac.at. 28. Juli 2017, abgerufen am 1. März 2025.
+A prospective, single-arm, open-label, multicenter clinical investigation to assess the safety and performance of SILKline breast implants in healthy female subjects. In: onderzoekmetmensen.nl. 14. Juni 2019, abgerufen am 12. März 2025 (englisch).
+K. Schacht u. a.: Biofabrication of Cell‐Loaded 3D Spider Silk Constructs. In: Angewandte Chemie International Edition. 54.9, 2015, S. 2816–2820, doi:10.1002/anie.201409846.
+X. Cui u. a.: Advances in Extrusion 3D Bioprinting: A Focus on Multicomponent Hydrogel‐Based Bioinks. In: Advanced Healthcare Materials. 9.15, 2020, doi:10.1002/adhm.201901648.
+Henning Peitsmeier: Omega-Uhren: Start-up Amsilk präsentiert Armband aus Spinnenseide. In: FAZ.net. 27. Januar 2019, abgerufen am 3. März 2025.
+Biosphere circulation offers a future for textiles. How can brands get involved? In: voguebusiness.com. 24. Januar 2024, abgerufen am 12. März 2025 (englisch).
+Jessica Iredale: Stella McCartney Partners With Bolt Threads on Sustainable Material Development. In: wwd.com. 20. Juli 2017, abgerufen am 12. März 2025 (englisch).
+The Art and Design of Spider Silk. In: risdmuseum.org. 27. September 2019, abgerufen am 12. März 2025 (englisch).
+An Emperor’s New Untangling. In: risdmuseum.org. 27. September 2019, abgerufen am 12. März 2025 (englisch).
+Biotecnologia Pró-teia: Descubra como ter cabelos regenerados de verdade. In: marjoriemagalhes.com. 15. Juni 2019, abgerufen am 11. März 2025 (portugiesisch).
+ Clara Rodríguez Fernández: Givaudan Acquires AMSilk’s Biotech Spider Silk Cosmetics Arm. In: labiotech.eu. 30. April 2019, abgerufen am 1. März 2025 (englisch).
+Succesfully Scaling-up Biofabrication of Silk Proteins (PDF; 3,1 MB) auf worldbiomarkets.com, 10–11. Mai 2023, abgerufen am 12. März 2025.
+Mary-Ann Muffoletto: Maritime Defense: USU Synthetic Spider Silk Lab Awarded Navy Grant. In: usu.edu. 22. Juni 2018, abgerufen am 1. März 2025 (englisch).
+Kraig Biocraft Laboratories delivers ballistic shootpack panels to U.S. Army. In: kraiglabs.com. 20. August 2018, abgerufen am 2. März 2025 (englisch).
+Donna Lindner, Air Force Research Laboratory: Air Force Scientists Study Artificial Silk for Body Armor, Parachutes > U.S. Department of Defense > Defense Department News. In: defense.gov. 6. August 2018, abgerufen am 12. März 2025 (englisch).
+ S. J. Blamires u. a.: Methods for Silk Property Analyses across Structural Hierarchies and Scales. In: Molecules. 28.5, 2023, S. 2120, doi:10.3390/molecules28052120.
+T. Asakura: Structural analysis of silk using solid-state NMR. In: Magnetic Resonance Letters. 4.3, 2024, S. 200111, doi:10.1016/j.mrl.2024.200111.
+Jens Kurreck, Joachim W. Engels, Friedrich Lotterspeich (Hrsg.): Bionanalytik. Springer Spektrum, Berlin, 2022, ISBN 978-3-662-61706-9, S. 189–191.
+Jens Kurreck, Joachim W. Engels, Friedrich Lotterspeich (Hrsg.): Bionanalytik. Springer Spektrum, Berlin, 2022, ISBN 978-3-662-61706-9, S. 177–180.
+Jens Kurreck, Joachim W. Engels, Friedrich Lotterspeich (Hrsg.): Bionanalytik. Springer Spektrum, Berlin, 2022, ISBN 978-3-662-61706-9, S. 618–622.
+C. Riekel, F. Vollrath: Spider silk fibre extrusion: combined wide- and small-angle X-ray microdiffraction experiments. In: International Journal of Biological Macromolecules. 29.3, 2001, S. 203–210,
